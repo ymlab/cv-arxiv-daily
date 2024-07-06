@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.05
+## Updated on 2024.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -537,7 +537,7 @@ layout: default
 |**2024-07-03**|**Multiple-Resolution Tokenization for Time Series Forecasting with an Application to Pricing**|Egon Peršak et.al.|[2407.03185](http://arxiv.org/abs/2407.03185)|null|
 |**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178](http://arxiv.org/abs/2407.03178)|null|
 |**2024-07-03**|**On a classification of planar functions in characteristic three**|Samuele Andreoli et.al.|[2407.03170](http://arxiv.org/abs/2407.03170)|null|
-|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
 |**2024-07-03**|**MVGT: A Multi-view Graph Transformer Based on Spatial Relations for EEG Emotion Recognition**|Yanjie Cui et.al.|[2407.03131](http://arxiv.org/abs/2407.03131)|null|
 |**2024-07-03**|**Conformally homogeneous Lorentzian spaces**|Dmitri V. Alekseevsky et.al.|[2407.03095](http://arxiv.org/abs/2407.03095)|null|
 |**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
