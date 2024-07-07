@@ -528,7 +528,7 @@ layout: default
 |**2024-07-03**|**ACTRESS: Active Retraining for Semi-supervised Visual Grounding**|Weitai Kang et.al.|[2407.03251](http://arxiv.org/abs/2407.03251)|null|
 |**2024-07-03**|**When big data actually are low-rank, or entrywise approximation of certain function-generated matrices**|Stanislav Budzinskiy et.al.|[2407.03250](http://arxiv.org/abs/2407.03250)|**[link](https://github.com/sbudzinskiy/low-rank-big-data)**|
 |**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
-|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|null|
+|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-03**|**Programming universal unitary transformations on a general-purpose silicon photonics platform**|Jose Roberto Rausell-Campo et.al.|[2407.03235](http://arxiv.org/abs/2407.03235)|null|
 |**2024-07-03**|**Observation of double J/ $ψ$ meson production in pPb collisions at $\sqrt{s_\mathrm{NN}}$ = 8.16 TeV**|CMS Collaboration et.al.|[2407.03223](http://arxiv.org/abs/2407.03223)|null|
 |**2024-07-03**|**Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers**|Sanket Gandhi et.al.|[2407.03216](http://arxiv.org/abs/2407.03216)|null|
