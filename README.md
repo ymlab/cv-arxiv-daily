@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -520,7 +520,7 @@
 |**2014-04-28**|**Evaluating the Assessment of Software Fault-Freeness**|John Rushby et.al.|[1404.6844](http://arxiv.org/abs/1404.6844)|null|
 |**2013-10-01**|**Optimal Routing and Scheduling of Charge for Electric Vehicles: Case Study**|John Barco et.al.|[1310.0145](http://arxiv.org/abs/1310.0145)|null|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## Transformer
 
@@ -647,9 +647,9 @@
 |**2024-07-03**|**Thermal and mechanical properties and the structural phase transition under pressure in $A$In$_2$As$_2$ ($A$ = Ca, Sr, Ba)**|Wen-Ti Guo et.al.|[2407.03290](http://arxiv.org/abs/2407.03290)|null|
 |**2024-07-03**|**A Unified Framework for 3D Scene Understanding**|Wei Xu et.al.|[2407.03263](http://arxiv.org/abs/2407.03263)|null|
 |**2024-07-03**|**STF: Sentence Transformer Fine-Tuning For Topic Categorization With Limited Data**|Kheir Eddine Daouadi et.al.|[2407.03253](http://arxiv.org/abs/2407.03253)|null|
-|**2024-07-03**|**ACTRESS: Active Retraining for Semi-supervised Visual Grounding**|Weitai Kang et.al.|[2407.03251](http://arxiv.org/abs/2407.03251)|null|
+|**2024-07-06**|**ACTRESS: Active Retraining for Semi-supervised Visual Grounding**|Weitai Kang et.al.|[2407.03251](http://arxiv.org/abs/2407.03251)|null|
 |**2024-07-04**|**When big data actually are low-rank, or entrywise approximation of certain function-generated matrices**|Stanislav Budzinskiy et.al.|[2407.03250](http://arxiv.org/abs/2407.03250)|**[link](https://github.com/sbudzinskiy/low-rank-big-data)**|
-|**2024-07-03**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
+|**2024-07-06**|**Visual Grounding with Attention-Driven Constraint Balancing**|Weitai Kang et.al.|[2407.03243](http://arxiv.org/abs/2407.03243)|null|
 |**2024-07-04**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-03**|**Programming universal unitary transformations on a general-purpose silicon photonics platform**|Jose Roberto Rausell-Campo et.al.|[2407.03235](http://arxiv.org/abs/2407.03235)|null|
 |**2024-07-03**|**Observation of double J/ $ψ$ meson production in pPb collisions at $\sqrt{s_\mathrm{NN}}$ = 8.16 TeV**|CMS Collaboration et.al.|[2407.03223](http://arxiv.org/abs/2407.03223)|null|
@@ -705,7 +705,7 @@
 |**2024-07-02**|**Belief sharing: a blessing or a curse**|Ozan Catal et.al.|[2407.02465](http://arxiv.org/abs/2407.02465)|null|
 |**2024-07-04**|**Learning tensor networks with tensor cross interpolation: new algorithms and libraries**|Yuriel Núñez Fernández et.al.|[2407.02454](http://arxiv.org/abs/2407.02454)|null|
 |**2024-07-02**|**Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials**|Yawar Siddiqui et.al.|[2407.02445](http://arxiv.org/abs/2407.02445)|null|
-|**2024-07-02**|**On the Anatomy of Attention**|Nikhil Khatri et.al.|[2407.02423](http://arxiv.org/abs/2407.02423)|null|
+|**2024-07-07**|**On the Anatomy of Attention**|Nikhil Khatri et.al.|[2407.02423](http://arxiv.org/abs/2407.02423)|null|
 |**2024-07-02**|**Vector-like Quark Stabilised Higgs Inflation: Implications for Particle Phenomenology, Primordial Gravitational Waves and the Hubble Tension**|John McDonald et.al.|[2407.02399](http://arxiv.org/abs/2407.02399)|null|
 |**2024-07-02**|**Consistency Flow Matching: Defining Straight Flows with Velocity Consistency**|Ling Yang et.al.|[2407.02398](http://arxiv.org/abs/2407.02398)|**[link](https://github.com/yangling0818/consistency_flow_matching)**|
 |**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392](http://arxiv.org/abs/2407.02392)|**[link](https://github.com/circleradon/tokenpacker)**|
@@ -731,9 +731,9 @@
 |**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104](http://arxiv.org/abs/2407.02104)|null|
 |**2024-07-02**|**A geometric condition for the invertibility of Toeplitz operators on the Bergman space**|Zeljko Cuckovic et.al.|[2407.02087](http://arxiv.org/abs/2407.02087)|null|
 |**2024-07-02**|**On the Performance and Memory Footprint of Distributed Training: An Empirical Study on Transformers**|Zhengxian Lu et.al.|[2407.02081](http://arxiv.org/abs/2407.02081)|null|
-|**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
+|**2024-07-06**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
 |**2024-07-02**|**Terminating Differentiable Tree Experts**|Jonathan Thomm et.al.|[2407.02060](http://arxiv.org/abs/2407.02060)|null|
-|**2024-07-02**|**CountFormer: Multi-View Crowd Counting Transformer**|Hong Mo et.al.|[2407.02047](http://arxiv.org/abs/2407.02047)|null|
+|**2024-07-02**|**CountFormer: Multi-View Crowd Counting Transformer**|Hong Mo et.al.|[2407.02047](http://arxiv.org/abs/2407.02047)|**[link](https://github.com/MandyMo/ECCV_Countformer)**|
 |**2024-07-02**|**Correspondence between two exact gravitational lens equations in a static and spherically symmetric spacetime**|Ryuya Kudo et.al.|[2407.02046](http://arxiv.org/abs/2407.02046)|null|
 |**2024-07-02**|**ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**|Zhiyuan Ma et.al.|[2407.02040](http://arxiv.org/abs/2407.02040)|**[link](https://github.com/theericma/scaledreamer)**|
 |**2024-07-02**|**DiGRAF: Diffeomorphic Graph-Adaptive Activation Function**|Krishna Sri Ipsit Mantri et.al.|[2407.02013](http://arxiv.org/abs/2407.02013)|null|
@@ -767,7 +767,7 @@
 |**2024-07-01**|**KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**|Jiayi Yuan et.al.|[2407.01527](http://arxiv.org/abs/2407.01527)|null|
 |**2024-07-01**|**Lie-Hamilton systems on Riemannian and Lorentzian spaces from conformal transformations and some of its applications**|Rutwig Campoamor-Stursberg et.al.|[2407.01500](http://arxiv.org/abs/2407.01500)|null|
 |**2024-07-01**|**Pictures Of MIDI: Controlled Music Generation via Graphical Prompts for Image-Based Diffusion Inpainting**|Scott H. Hawley et.al.|[2407.01499](http://arxiv.org/abs/2407.01499)|null|
-|**2024-07-02**|**Analytical exciton energies in monolayer transition-metal dichalcogenides**|Hanh T. Dinh et.al.|[2407.01477](http://arxiv.org/abs/2407.01477)|null|
+|**2024-07-06**|**Analytical exciton energies in monolayer transition-metal dichalcogenides**|Hanh T. Dinh et.al.|[2407.01477](http://arxiv.org/abs/2407.01477)|null|
 |**2024-07-01**|**The dispersion generalized Benjamin-Ono equation**|Albert Ai et.al.|[2407.01472](http://arxiv.org/abs/2407.01472)|null|
 |**2024-06-25**|**The Balanced-Pairwise-Affinities Feature Transform**|Daniel Shalam et.al.|[2407.01467](http://arxiv.org/abs/2407.01467)|null|
 |**2024-07-01**|**TimeToM: Temporal Space is the Key to Unlocking the Door of Large Language Models' Theory-of-Mind**|Guiyang Hou et.al.|[2407.01455](http://arxiv.org/abs/2407.01455)|null|
@@ -815,7 +815,7 @@
 |**2024-07-01**|**Neutrino oscillations originate from virtual excitation of Z bosons**|Shi-Biao Zheng et.al.|[2407.00954](http://arxiv.org/abs/2407.00954)|null|
 |**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949](http://arxiv.org/abs/2407.00949)|null|
 |**2024-07-01**|**Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction**|Bin Huang et.al.|[2407.00944](http://arxiv.org/abs/2407.00944)|null|
-|**2024-07-01**|**Full Iso-recursive Types**|Litao Zhou et.al.|[2407.00941](http://arxiv.org/abs/2407.00941)|null|
+|**2024-07-07**|**Full Iso-recursive Types**|Litao Zhou et.al.|[2407.00941](http://arxiv.org/abs/2407.00941)|null|
 |**2024-07-01**|**Large Language Model Enhanced Knowledge Representation Learning: A Survey**|Xin Wang et.al.|[2407.00936](http://arxiv.org/abs/2407.00936)|null|
 |**2024-07-01**|**Reconfigurable Intelligent Computational Surfaces for MEC-Assisted Autonomous Driving Networks: Design Optimization and Analysis**|Xueyao Zhang et.al.|[2407.00933](http://arxiv.org/abs/2407.00933)|null|
 |**2024-07-01**|**How to Leverage Digit Embeddings to Represent Numbers?**|Jasivan Alex Sivakumar et.al.|[2407.00894](http://arxiv.org/abs/2407.00894)|null|
@@ -964,7 +964,7 @@
 |**2024-06-27**|**Metaheuristics for finding threshold graphs with maximum spectral radius**|Luka Radanović et.al.|[2406.19209](http://arxiv.org/abs/2406.19209)|null|
 |**2024-06-27**|**Conformal Yang-Mills field in (A)dS space**|R. R. Metsaev et.al.|[2406.19182](http://arxiv.org/abs/2406.19182)|null|
 |**2024-06-27**|**Gravitational waveforms from inspiral compact binaries in Hybrid metric-Palatini gravity**|P. I. Dyadina et.al.|[2406.19159](http://arxiv.org/abs/2406.19159)|null|
-|**2024-07-03**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136](http://arxiv.org/abs/2406.19136)|**[link](https://github.com/xunyoyo/YZS-Model)**|
+|**2024-07-07**|**YZS-model: A Predictive Model for Organic Drug Solubility Based on Graph Convolutional Networks and Transformer-Attention**|Chenxu Wang et.al.|[2406.19136](http://arxiv.org/abs/2406.19136)|**[link](https://github.com/xunyoyo/YZS-Model)**|
 |**2024-06-27**|**$n$ qubits can be entangled in two different ways**|Dafa Li et.al.|[2406.19119](http://arxiv.org/abs/2406.19119)|null|
 |**2024-06-27**|**Yang-Mills theory from the worldline**|Roberto Bonezzi et.al.|[2406.19045](http://arxiv.org/abs/2406.19045)|null|
 |**2024-06-27**|**Constructing and Analyzing Different Density Graphs for Path Extrapolation in Wikipedia**|Martha Sotiroudi et.al.|[2406.19039](http://arxiv.org/abs/2406.19039)|null|
@@ -1502,7 +1502,7 @@
 |**2024-06-14**|**Simultaneous comparisons of the variances of k treatments with that of a control: a Levene-Dunnett type procedure**|Ludwig A. Hothorn et.al.|[2406.11892](http://arxiv.org/abs/2406.11892)|null|
 |**2024-06-21**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-25**|**New construction of a vacuum doubly rotating black ring by the Ehlers transformation**|Ryotaku Suzuki et.al.|[2406.11804](http://arxiv.org/abs/2406.11804)|null|
-|**2024-06-30**|**Compact Proofs of Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779](http://arxiv.org/abs/2406.11779)|**[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)**|
+|**2024-07-07**|**Compact Proofs of Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779](http://arxiv.org/abs/2406.11779)|**[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)**|
 |**2024-06-17**|**DustNet: skillful neural network predictions of Saharan dust**|Trish E. Nowak et.al.|[2406.11754](http://arxiv.org/abs/2406.11754)|null|
 |**2024-06-17**|**Flexible and Reversible Conversion between Extensible Records and Overloading Constraints for ML**|Alvise Spanò et.al.|[2406.11750](http://arxiv.org/abs/2406.11750)|null|
 |**2024-06-17**|**Critical Fermions are Universal Embezzlers**|Lauritz van Luijk et.al.|[2406.11747](http://arxiv.org/abs/2406.11747)|null|
@@ -1702,7 +1702,7 @@
 |**2024-06-13**|**Generating QES potentials supporting zero energy normalizable states for an extended class of truncated Calogero Sutherland model**|Satish Yadav et.al.|[2406.09164](http://arxiv.org/abs/2406.09164)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
