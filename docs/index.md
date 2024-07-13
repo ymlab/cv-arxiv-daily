@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -1592,7 +1592,7 @@ layout: default
 |**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947](http://arxiv.org/abs/2406.14947)|**[link](https://github.com/damanikjosh/the-barn-challenge)**|
 |**2024-06-21**|**Genus non-increasing totally positive unknotting number**|Tetsuya Ito et.al.|[2406.14918](http://arxiv.org/abs/2406.14918)|null|
 |**2024-06-21**|**Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks**|Minjong Cheon et.al.|[2406.14916](http://arxiv.org/abs/2406.14916)|**[link](https://github.com/jmj2316/KAN-in-VIsion)**|
-|**2024-06-25**|**A phase-space approach to weighted Fourier extension inequalities**|Jonathan Bennett et.al.|[2406.14886](http://arxiv.org/abs/2406.14886)|null|
+|**2024-07-11**|**A phase-space approach to weighted Fourier extension inequalities**|Jonathan Bennett et.al.|[2406.14886](http://arxiv.org/abs/2406.14886)|null|
 |**2024-06-21**|**Ink and Algorithm: Exploring Temporal Dynamics in Human-AI Collaborative Writing**|Kaixun Yang et.al.|[2406.14885](http://arxiv.org/abs/2406.14885)|null|
 |**2024-06-21**|**Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering**|Chongzhi Zhang et.al.|[2406.14880](http://arxiv.org/abs/2406.14880)|null|
 |**2024-06-21**|**Beyond Accidents and Misuse: Decoding the Structural Risk Dynamics of Artificial Intelligence**|Kyle A Kilian et.al.|[2406.14873](http://arxiv.org/abs/2406.14873)|null|

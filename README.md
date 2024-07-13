@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -526,7 +526,7 @@
 |**2014-04-28**|**Evaluating the Assessment of Software Fault-Freeness**|John Rushby et.al.|[1404.6844](http://arxiv.org/abs/1404.6844)|null|
 |**2013-10-01**|**Optimal Routing and Scheduling of Charge for Electric Vehicles: Case Study**|John Barco et.al.|[1310.0145](http://arxiv.org/abs/1310.0145)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 ## Transformer
 
@@ -1598,7 +1598,7 @@
 |**2024-06-21**|**LiCS: Navigation using Learned-imitation on Cluttered Space**|Joshua Julian Damanik et.al.|[2406.14947](http://arxiv.org/abs/2406.14947)|**[link](https://github.com/damanikjosh/the-barn-challenge)**|
 |**2024-06-21**|**Genus non-increasing totally positive unknotting number**|Tetsuya Ito et.al.|[2406.14918](http://arxiv.org/abs/2406.14918)|null|
 |**2024-06-21**|**Demonstrating the Efficacy of Kolmogorov-Arnold Networks in Vision Tasks**|Minjong Cheon et.al.|[2406.14916](http://arxiv.org/abs/2406.14916)|**[link](https://github.com/jmj2316/KAN-in-VIsion)**|
-|**2024-06-25**|**A phase-space approach to weighted Fourier extension inequalities**|Jonathan Bennett et.al.|[2406.14886](http://arxiv.org/abs/2406.14886)|null|
+|**2024-07-11**|**A phase-space approach to weighted Fourier extension inequalities**|Jonathan Bennett et.al.|[2406.14886](http://arxiv.org/abs/2406.14886)|null|
 |**2024-06-21**|**Ink and Algorithm: Exploring Temporal Dynamics in Human-AI Collaborative Writing**|Kaixun Yang et.al.|[2406.14885](http://arxiv.org/abs/2406.14885)|null|
 |**2024-06-21**|**Pathformer: Recursive Path Query Encoding for Complex Logical Query Answering**|Chongzhi Zhang et.al.|[2406.14880](http://arxiv.org/abs/2406.14880)|null|
 |**2024-06-21**|**Beyond Accidents and Misuse: Decoding the Structural Risk Dynamics of Artificial Intelligence**|Kyle A Kilian et.al.|[2406.14873](http://arxiv.org/abs/2406.14873)|null|
@@ -2016,7 +2016,7 @@
 |**2024-06-13**|**Generating QES potentials supporting zero energy normalizable states for an extended class of truncated Calogero Sutherland model**|Satish Yadav et.al.|[2406.09164](http://arxiv.org/abs/2406.09164)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
