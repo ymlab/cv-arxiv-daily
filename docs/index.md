@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -554,7 +554,7 @@ layout: default
 |**2024-07-11**|**Light transformation: A Celestial and Carrollian perspective**|Sourish Banerjee et.al.|[2407.08379](http://arxiv.org/abs/2407.08379)|null|
 |**2024-07-11**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
 |**2024-07-11**|**Quantized area of the Schwarzschild black hole: A non-hermitian perspective**|Bijan Bagchi et.al.|[2407.08358](http://arxiv.org/abs/2407.08358)|null|
-|**2024-07-11**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
+|**2024-07-12**|**ADMM Based Semi-Structured Pattern Pruning Framework For Transformer**|TianChen Wang et.al.|[2407.08334](http://arxiv.org/abs/2407.08334)|null|
 |**2024-07-11**|**HDT: Hierarchical Document Transformer**|Haoyu He et.al.|[2407.08330](http://arxiv.org/abs/2407.08330)|null|
 |**2024-07-11**|**Extension of Buchdahl's Theorem on Reciprocal Solutions**|David S. Pereira et.al.|[2407.08320](http://arxiv.org/abs/2407.08320)|null|
 |**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313](http://arxiv.org/abs/2407.08313)|null|
@@ -1038,7 +1038,7 @@ layout: default
 |**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104](http://arxiv.org/abs/2407.02104)|null|
 |**2024-07-02**|**A geometric condition for the invertibility of Toeplitz operators on the Bergman space**|Zeljko Cuckovic et.al.|[2407.02087](http://arxiv.org/abs/2407.02087)|null|
 |**2024-07-02**|**On the Performance and Memory Footprint of Distributed Training: An Empirical Study on Transformers**|Zhengxian Lu et.al.|[2407.02081](http://arxiv.org/abs/2407.02081)|null|
-|**2024-07-06**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
+|**2024-07-12**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
 |**2024-07-02**|**Terminating Differentiable Tree Experts**|Jonathan Thomm et.al.|[2407.02060](http://arxiv.org/abs/2407.02060)|null|
 |**2024-07-02**|**CountFormer: Multi-View Crowd Counting Transformer**|Hong Mo et.al.|[2407.02047](http://arxiv.org/abs/2407.02047)|**[link](https://github.com/MandyMo/ECCV_Countformer)**|
 |**2024-07-02**|**Correspondence between two exact gravitational lens equations in a static and spherically symmetric spacetime**|Ryuya Kudo et.al.|[2407.02046](http://arxiv.org/abs/2407.02046)|null|
