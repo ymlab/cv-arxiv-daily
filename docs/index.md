@@ -1707,7 +1707,7 @@ layout: default
 |**2024-06-19**|**Search-based DNN Testing and Retraining with GAN-enhanced Simulations**|Mohammed Oualid Attaoui et.al.|[2406.13359](http://arxiv.org/abs/2406.13359)|null|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 |**2024-06-19**|**Wilson line-based action for gluodynamics at the loop level**|Hiren Kakkad et.al.|[2406.13314](http://arxiv.org/abs/2406.13314)|null|
-|**2024-06-19**|**ECAFormer: Low-light Image Enhancement using Cross Attention**|Yudi Ruan et.al.|[2406.13281](http://arxiv.org/abs/2406.13281)|null|
+|**2024-06-19**|**ECAFormer: Low-light Image Enhancement using Cross Attention**|Yudi Ruan et.al.|[2406.13281](http://arxiv.org/abs/2406.13281)|**[link](https://github.com/ruanyudi/ecaformer)**|
 |**2024-06-25**|**Enhancing Automated Audio Captioning via Large Language Models with Optimized Audio Encoding**|Jizhong Liu et.al.|[2406.13275](http://arxiv.org/abs/2406.13275)|**[link](https://github.com/frankenliu/LOAE)**|
 |**2024-06-19**|**Advancements in Orthopaedic Arm Segmentation: A Comprehensive Review**|Abhishek Swami et.al.|[2406.13266](http://arxiv.org/abs/2406.13266)|null|
 |**2024-06-24**|**Machine Learning Applications of Quantum Computing: A Review**|Thien Nguyen et.al.|[2406.13262](http://arxiv.org/abs/2406.13262)|null|
@@ -1825,7 +1825,7 @@ layout: default
 |**2024-06-14**|**Non-Weyl Behavior Induced by Superradiance: A Microwave Graph Study**|Junjie Lu et.al.|[2406.11606](http://arxiv.org/abs/2406.11606)|null|
 |**2024-07-04**|**Compressed Skinning for Facial Blendshapes**|Ladislav Kavan et.al.|[2406.11597](http://arxiv.org/abs/2406.11597)|null|
 |**2024-06-17**|**ChildDiffusion: Unlocking the Potential of Generative AI and Controllable Augmentations for Child Facial Data using Stable Diffusion and Large Language Models**|Muhammad Ali Farooq et.al.|[2406.11592](http://arxiv.org/abs/2406.11592)|null|
-|**2024-06-23**|**GA-Unity: A Production-Ready Unity Package for Seamless Integration of Geometric Algebra in Networked Collaborative Applications**|Manos Kamarianakis et.al.|[2406.11560](http://arxiv.org/abs/2406.11560)|null|
+|**2024-06-23**|**GA-Unity: A Production-Ready Unity Package for Seamless Integration of Geometric Algebra in Networked Collaborative Applications**|Manos Kamarianakis et.al.|[2406.11560](http://arxiv.org/abs/2406.11560)|**[link](https://github.com/papagiannakis/GA-Unity)**|
 |**2024-06-17**|**Size effect on the structural and magnetic phase transformations of iron nanoparticles**|Alexis Front et.al.|[2406.11549](http://arxiv.org/abs/2406.11549)|null|
 |**2024-06-17**|**Inpainting the Gaps: A Novel Framework for Evaluating Explanation Methods in Vision Transformers**|Lokesh Badisa et.al.|[2406.11534](http://arxiv.org/abs/2406.11534)|null|
 |**2024-06-17**|**Fourier transform in cyclic groups**|Yves Benoist et.al.|[2406.11529](http://arxiv.org/abs/2406.11529)|null|
@@ -1949,7 +1949,7 @@ layout: default
 |**2024-06-14**|**InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning**|Tiancheng Li et.al.|[2406.09973](http://arxiv.org/abs/2406.09973)|null|
 |**2024-06-17**|**H-Fac: Memory-Efficient Optimization with Factorized Hamiltonian Descent**|Son Nguyen et.al.|[2406.09958](http://arxiv.org/abs/2406.09958)|null|
 |**2024-06-14**|**Experiments in News Bias Detection with Pre-Trained Neural Transformers**|Tim Menzner et.al.|[2406.09938](http://arxiv.org/abs/2406.09938)|null|
-|**2024-06-14**|**ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers**|Narges Norouzi et.al.|[2406.09936](http://arxiv.org/abs/2406.09936)|null|
+|**2024-06-14**|**ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers**|Narges Norouzi et.al.|[2406.09936](http://arxiv.org/abs/2406.09936)|**[link](https://github.com/tue-mps/algm-segmenter)**|
 |**2024-06-14**|**Nonlinear two-component system of time-fractional PDEs in (2+1)-dimensions: Invariant subspace method combined with variable transformation**|P. Prakash et.al.|[2406.09917](http://arxiv.org/abs/2406.09917)|null|
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
 |**2024-06-20**|**Learning Solution-Aware Transformers for Efficiently Solving Quadratic Assignment Problem**|Zhentao Tan et.al.|[2406.09899](http://arxiv.org/abs/2406.09899)|**[link](https://github.com/pkutan/sawt)**|
@@ -1967,7 +1967,7 @@ layout: default
 |**2024-06-14**|**Evolving Self-Assembling Neural Networks: From Spontaneous Activity to Experience-Dependent Learning**|Erwan Plantec et.al.|[2406.09787](http://arxiv.org/abs/2406.09787)|null|
 |**2024-06-14**|**A lightweight residual network for unsupervised deformable image registration**|Ahsan Raza Siyal et.al.|[2406.09774](http://arxiv.org/abs/2406.09774)|null|
 |**2024-06-14**|**Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting**|Ce Hao et.al.|[2406.09767](http://arxiv.org/abs/2406.09767)|null|
-|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 |**2024-06-14**|**Interior-Point-based H2 Controller Synthesis for Compartmental Systems**|Zhaohua Yang et.al.|[2406.09753](http://arxiv.org/abs/2406.09753)|null|
 |**2024-06-14**|**IFA: Interaction Fidelity Attention for Entire Lifelong Behaviour Sequence Modeling**|Wenhui Yu et.al.|[2406.09742](http://arxiv.org/abs/2406.09742)|null|
 |**2024-06-14**|**Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation**|Teli Ma et.al.|[2406.09738](http://arxiv.org/abs/2406.09738)|null|
