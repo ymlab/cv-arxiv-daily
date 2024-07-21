@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.20
+## Updated on 2024.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -533,7 +533,7 @@
 |**2014-04-28**|**Evaluating the Assessment of Software Fault-Freeness**|John Rushby et.al.|[1404.6844](http://arxiv.org/abs/1404.6844)|null|
 |**2013-10-01**|**Optimal Routing and Scheduling of Charge for Electric Vehicles: Case Study**|John Barco et.al.|[1310.0145](http://arxiv.org/abs/1310.0145)|null|
 
-<p align=right>(<a href=#updated-on-20240720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240721>back to top</a>)</p>
 
 ## Transformer
 
@@ -2473,7 +2473,7 @@
 |**2024-06-13**|**Generating QES potentials supporting zero energy normalizable states for an extended class of truncated Calogero Sutherland model**|Satish Yadav et.al.|[2406.09164](http://arxiv.org/abs/2406.09164)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 
-<p align=right>(<a href=#updated-on-20240720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
