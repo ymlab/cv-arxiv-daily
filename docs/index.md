@@ -1036,7 +1036,7 @@ layout: default
 |**2024-07-17**|**Virtual Gram staining of label-free bacteria using darkfield microscopy and deep learning**|Cagatay Isil et.al.|[2407.12337](http://arxiv.org/abs/2407.12337)|null|
 |**2024-07-17**|**Why Do You Grok? A Theoretical Analysis of Grokking Modular Addition**|Mohamad Amin Mohamadi et.al.|[2407.12332](http://arxiv.org/abs/2407.12332)|null|
 |**2024-07-17**|**Benchmarking adiabatic transformation by alternating unitaries**|Takuya Hatomura et.al.|[2407.12326](http://arxiv.org/abs/2407.12326)|null|
-|**2024-07-26**|**Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer**|Wenhan Wu et.al.|[2407.12322](http://arxiv.org/abs/2407.12322)|null|
+|**2024-07-26**|**Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer**|Wenhan Wu et.al.|[2407.12322](http://arxiv.org/abs/2407.12322)|**[link](https://github.com/wenhanwu95/freqmixformer)**|
 |**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309](http://arxiv.org/abs/2407.12309)|null|
 |**2024-07-17**|**SHARC-VQE: Simplified Hamiltonian Approach with Refinement and Correction enabled Variational Quantum Eigensolver for Molecular Simulation**|Harshdeep Singh et.al.|[2407.12305](http://arxiv.org/abs/2407.12305)|null|
 |**2024-07-17**|**Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression**|Junhui Li et.al.|[2407.12295](http://arxiv.org/abs/2407.12295)|null|
@@ -2251,7 +2251,7 @@ layout: default
 |**2024-06-24**|**Learning on Transformers is Provable Low-Rank and Sparse: A One-layer Analysis**|Hongkang Li et.al.|[2406.17167](http://arxiv.org/abs/2406.17167)|null|
 |**2024-06-24**|**Exploring compressibility of transformer based text-to-music (TTM) models**|Vasileios Moschopoulos et.al.|[2406.17159](http://arxiv.org/abs/2406.17159)|null|
 |**2024-06-24**|**Optimizing Sparse Mean-Reverting Portfolio**|Sung Min Yoon et.al.|[2406.17155](http://arxiv.org/abs/2406.17155)|null|
-|**2024-07-09**|**MixTex: Unambiguous Recognition Should Not Rely Solely on Real Data**|Renqing Luo et.al.|[2406.17148](http://arxiv.org/abs/2406.17148)|null|
+|**2024-07-09**|**MixTex: Unambiguous Recognition Should Not Rely Solely on Real Data**|Renqing Luo et.al.|[2406.17148](http://arxiv.org/abs/2406.17148)|**[link](https://github.com/RQLuo/MixTeX)**|
 |**2024-07-08**|**Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone**|Christophe Bonneville et.al.|[2406.17119](http://arxiv.org/abs/2406.17119)|null|
 |**2024-06-24**|**GMT: Guided Mask Transformer for Leaf Instance Segmentation**|Feng Chen et.al.|[2406.17109](http://arxiv.org/abs/2406.17109)|null|
 |**2024-06-24**|**High-entropy magnetism of murunskite**|D. Tolj et.al.|[2406.17108](http://arxiv.org/abs/2406.17108)|null|
@@ -2498,7 +2498,7 @@ layout: default
 |**2024-06-21**|**Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data**|Nahema Marchal et.al.|[2406.13843](http://arxiv.org/abs/2406.13843)|null|
 |**2024-06-19**|**Joint vs Sequential Speaker-Role Detection and Automatic Speech Recognition for Air-traffic Control**|Alexander Blatt et.al.|[2406.13842](http://arxiv.org/abs/2406.13842)|null|
 |**2024-06-27**|**Fine-Tuning BERTs for Definition Extraction from Mathematical Text**|Lucy Horowitz et.al.|[2406.13827](http://arxiv.org/abs/2406.13827)|null|
-|**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815](http://arxiv.org/abs/2406.13815)|null|
+|**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815](http://arxiv.org/abs/2406.13815)|**[link](https://github.com/alireza-aghelan/ig-cfat)**|
 |**2024-06-19**|**Harvesting Deformation Modes for Micromorphic Homogenization from Experiments on Mechanical Metamaterials**|S. Maraghechi et.al.|[2406.13810](http://arxiv.org/abs/2406.13810)|null|
 |**2024-06-19**|**A Primal-Dual Framework for Transformers and Neural Networks**|Tan M. Nguyen et.al.|[2406.13781](http://arxiv.org/abs/2406.13781)|null|
 |**2024-06-19**|**Elliptical Attention**|Stefan K. Nielsen et.al.|[2406.13770](http://arxiv.org/abs/2406.13770)|null|
@@ -2806,7 +2806,7 @@ layout: default
 |**2024-06-14**|**Interpretable MA-island clusters and fingerprints relating bainite microstructures to composition and processing temperature**|Vinod Kumar et.al.|[2406.09663](http://arxiv.org/abs/2406.09663)|null|
 |**2024-06-14**|**RSEND: Retinex-based Squeeze and Excitation Network with Dark Region Detection for Efficient Low Light Image Enhancement**|Jingcheng Li et.al.|[2406.09656](http://arxiv.org/abs/2406.09656)|null|
 |**2024-06-13**|**Connecting the hexagonal closed packed structure with the cuboidal lattices: A Burgers-Bain type martensitic transformation for a Lennard-Jones solid derived from exact lattice summations**|Peter Schwerdtfeger et.al.|[2406.09635](http://arxiv.org/abs/2406.09635)|null|
-|**2024-06-13**|**RobustSAM: Segment Anything Robustly on Degraded Images**|Wei-Ting Chen et.al.|[2406.09627](http://arxiv.org/abs/2406.09627)|null|
+|**2024-06-13**|**RobustSAM: Segment Anything Robustly on Degraded Images**|Wei-Ting Chen et.al.|[2406.09627](http://arxiv.org/abs/2406.09627)|**[link](https://github.com/robustsam/RobustSAM)**|
 |**2024-06-13**|**DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer**|Wei-Ting Chen et.al.|[2406.09622](http://arxiv.org/abs/2406.09622)|null|
 |**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612](http://arxiv.org/abs/2406.09612)|null|
 |**2024-06-13**|**Spin-deformation coupling in two-dimensional polar materials**|J. A. Sánchez-Monroy et.al.|[2406.09599](http://arxiv.org/abs/2406.09599)|null|
