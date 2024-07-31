@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -156,7 +156,7 @@ layout: default
 |**2024-01-13**|**DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception**|Kai Jiang et.al.|[2401.08687](http://arxiv.org/abs/2401.08687)|null|
 |**2024-01-14**|**Application of 2D Homography for High Resolution Traffic Data Collection using CCTV Cameras**|Linlin Zhang et.al.|[2401.07220](http://arxiv.org/abs/2401.07220)|null|
 |**2024-01-13**|**UniVision: A Unified Framework for Vision-Centric 3D Perception**|Yu Hong et.al.|[2401.06994](http://arxiv.org/abs/2401.06994)|null|
-|**2024-01-15**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836](http://arxiv.org/abs/2401.03836)|**[link](https://github.com/chenhongyiyang/widthformer)**|
+|**2024-07-30**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836](http://arxiv.org/abs/2401.03836)|**[link](https://github.com/chenhongyiyang/widthformer)**|
 |**2024-01-08**|**Distilling Temporal Knowledge with Masked Feature Reconstruction for 3D Object Detection**|Haowen Zheng et.al.|[2401.01918](http://arxiv.org/abs/2401.01918)|null|
 |**2024-06-18**|**BEV-TSR: Text-Scene Retrieval in BEV Space for Autonomous Driving**|Tao Tang et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
 |**2024-01-02**|**Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**|Xinpeng Ding et.al.|[2401.00988](http://arxiv.org/abs/2401.00988)|**[link](https://github.com/xmed-lab/nuinstruct)**|
@@ -557,7 +557,7 @@ layout: default
 |**2024-07-29**|**Background Semantics Matter: Cross-Task Feature Exchange Network for Clustered Infrared Small Target Detection With Sky-Annotated Dataset**|Yimian Dai et.al.|[2407.20078](http://arxiv.org/abs/2407.20078)|**[link](https://github.com/grokcv/bafe-net)**|
 |**2024-07-29**|**Electromagnetic helicity flux operators in higher dimensions**|Wen-Bin Liu et.al.|[2407.20077](http://arxiv.org/abs/2407.20077)|null|
 |**2024-07-29**|**Phase transformation and synchrony for a network of coupled Izhikevich neurons**|Áine Byrne et.al.|[2407.20055](http://arxiv.org/abs/2407.20055)|null|
-|**2024-07-29**|**MimiQ: Low-Bit Data-Free Quantization of Vision Transformers**|Kanghyun Choi et.al.|[2407.20021](http://arxiv.org/abs/2407.20021)|null|
+|**2024-07-30**|**MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity**|Kanghyun Choi et.al.|[2407.20021](http://arxiv.org/abs/2407.20021)|null|
 |**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985](http://arxiv.org/abs/2407.19985)|null|
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965](http://arxiv.org/abs/2407.19965)|null|
 |**2024-07-29**|**Predicting citation impact of research papers using GPT and other text embeddings**|Adilson Vital Jr. et.al.|[2407.19942](http://arxiv.org/abs/2407.19942)|null|
@@ -568,7 +568,7 @@ layout: default
 |**2024-07-29**|**A Brief Introduction to Quantum Network Control**|Víctor Valls et.al.|[2407.19899](http://arxiv.org/abs/2407.19899)|null|
 |**2024-07-29**|**A Unified Graph Transformer for Overcoming Isolations in Multi-modal Recommendation**|Zixuan Yi et.al.|[2407.19886](http://arxiv.org/abs/2407.19886)|null|
 |**2024-07-29**|**Language-driven Grasp Detection with Mask-guided Attention**|Tuan Van Vo et.al.|[2407.19877](http://arxiv.org/abs/2407.19877)|null|
-|**2024-07-29**|**Generative model for financial time series trained with MMD using a signature kernel**|Lu Chung I et.al.|[2407.19848](http://arxiv.org/abs/2407.19848)|null|
+|**2024-07-30**|**Generative model for financial time series trained with MMD using a signature kernel**|Chung I Lu et.al.|[2407.19848](http://arxiv.org/abs/2407.19848)|null|
 |**2024-07-29**|**ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**|Wenjun Huang et.al.|[2407.19832](http://arxiv.org/abs/2407.19832)|null|
 |**2024-07-29**|**Generative Retrieval with Preference Optimization for E-commerce Search**|Mingming Li et.al.|[2407.19829](http://arxiv.org/abs/2407.19829)|null|
 |**2024-07-29**|**Federated Learning based Latent Factorization of Tensors for Privacy-Preserving QoS Prediction**|Shuai Zhong et.al.|[2407.19828](http://arxiv.org/abs/2407.19828)|null|
@@ -1199,7 +1199,7 @@ layout: default
 |**2024-07-17**|**Virtual Gram staining of label-free bacteria using darkfield microscopy and deep learning**|Cagatay Isil et.al.|[2407.12337](http://arxiv.org/abs/2407.12337)|null|
 |**2024-07-17**|**Why Do You Grok? A Theoretical Analysis of Grokking Modular Addition**|Mohamad Amin Mohamadi et.al.|[2407.12332](http://arxiv.org/abs/2407.12332)|null|
 |**2024-07-17**|**Benchmarking adiabatic transformation by alternating unitaries**|Takuya Hatomura et.al.|[2407.12326](http://arxiv.org/abs/2407.12326)|null|
-|**2024-07-26**|**Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer**|Wenhan Wu et.al.|[2407.12322](http://arxiv.org/abs/2407.12322)|**[link](https://github.com/wenhanwu95/freqmixformer)**|
+|**2024-07-29**|**Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer**|Wenhan Wu et.al.|[2407.12322](http://arxiv.org/abs/2407.12322)|**[link](https://github.com/wenhanwu95/freqmixformer)**|
 |**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309](http://arxiv.org/abs/2407.12309)|null|
 |**2024-07-17**|**SHARC-VQE: Simplified Hamiltonian Approach with Refinement and Correction enabled Variational Quantum Eigensolver for Molecular Simulation**|Harshdeep Singh et.al.|[2407.12305](http://arxiv.org/abs/2407.12305)|null|
 |**2024-07-17**|**Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression**|Junhui Li et.al.|[2407.12295](http://arxiv.org/abs/2407.12295)|null|
