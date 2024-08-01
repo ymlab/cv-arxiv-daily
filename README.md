@@ -550,6 +550,73 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783](http://arxiv.org/abs/2407.21783)|null|
+|**2024-07-31**|**Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder**|Arnold Yang et.al.|[2407.21774](http://arxiv.org/abs/2407.21774)|null|
+|**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|null|
+|**2024-07-31**|**No-Go Theorems for Universal Entanglement Purification**|Allen Zang et.al.|[2407.21760](http://arxiv.org/abs/2407.21760)|null|
+|**2024-07-31**|**Characterizing User Archetypes and Discussions on Scored.co**|Andrea Failla et.al.|[2407.21753](http://arxiv.org/abs/2407.21753)|null|
+|**2024-07-31**|**Discovery of 6G Services and Resources in Edge-Cloud-Continuum**|Mohammad Farhoudi et.al.|[2407.21751](http://arxiv.org/abs/2407.21751)|null|
+|**2024-07-31**|**Waveform resampling with LMN method**|Lino Gerlach et.al.|[2407.21750](http://arxiv.org/abs/2407.21750)|null|
+|**2024-07-31**|**Mizuno's rank three Nahm sums II: identities of index $(1,2,2)$ and modular forms**|Boxue Wang et.al.|[2407.21725](http://arxiv.org/abs/2407.21725)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Kramers-Kronig relations via Laplace formalism and $L^1$ integrability**|Marco Prevedelli et.al.|[2407.21694](http://arxiv.org/abs/2407.21694)|null|
+|**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
+|**2024-07-31**|**Hyperspectral near infrared imaging using a tunable spectral phasor**|Jan Stegemann et.al.|[2407.21684](http://arxiv.org/abs/2407.21684)|null|
+|**2024-07-31**|**The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras**|W. Riley Casper et.al.|[2407.21680](http://arxiv.org/abs/2407.21680)|null|
+|**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666](http://arxiv.org/abs/2407.21666)|null|
+|**2024-07-31**|**Beat this! Accurate beat tracking without DBN postprocessing**|Francesco Foscarin et.al.|[2407.21658](http://arxiv.org/abs/2407.21658)|null|
+|**2024-07-31**|**Spatial Transformer Network YOLO Model for Agricultural Object Detection**|Yash Zambre et.al.|[2407.21652](http://arxiv.org/abs/2407.21652)|null|
+|**2024-07-31**|**The surprising structure of non-relativistic 11-dimensional supergravity**|Eric A. Bergshoeff et.al.|[2407.21648](http://arxiv.org/abs/2407.21648)|null|
+|**2024-07-31**|**MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation**|Sina Ghorbani Kolahi et.al.|[2407.21640](http://arxiv.org/abs/2407.21640)|null|
+|**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
+|**2024-07-31**|**Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation**|Xiang Luo et.al.|[2407.21633](http://arxiv.org/abs/2407.21633)|null|
+|**2024-07-31**|**RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion**|Jianxin Huang et.al.|[2407.21631](http://arxiv.org/abs/2407.21631)|null|
+|**2024-07-31**|**Between the AI and Me: Analysing Listeners' Perspectives on AI- and Human-Composed Progressive Metal Music**|Pedro Sarmento et.al.|[2407.21615](http://arxiv.org/abs/2407.21615)|null|
+|**2024-07-31**|**A τ Matrix Based Approximate Inverse Preconditioning for Tempered Fractional Diffusion Equations**|Xuan Zhang et.al.|[2407.21603](http://arxiv.org/abs/2407.21603)|null|
+|**2024-07-31**|**Precomputing approach for a two-scale phase transition model**|Michael Eden et.al.|[2407.21595](http://arxiv.org/abs/2407.21595)|null|
+|**2024-07-31**|**Towards $\mathcal{N}=2$ superconformal higher-spin theory**|Sergei M. Kuzenko et.al.|[2407.21573](http://arxiv.org/abs/2407.21573)|null|
+|**2024-07-31**|**PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning**|Min Jae Jung et.al.|[2407.21571](http://arxiv.org/abs/2407.21571)|null|
+|**2024-07-31**|**A Simple Low-bit Quantization Framework for Video Snapshot Compressive Imaging**|Miao Cao et.al.|[2407.21517](http://arxiv.org/abs/2407.21517)|null|
+|**2024-07-31**|**FSSC: Federated Learning of Transformer Neural Networks for Semantic Image Communication**|Yuna Yan et.al.|[2407.21507](http://arxiv.org/abs/2407.21507)|null|
+|**2024-07-31**|**Interpretable correlator Transformer for image-like quantum matter data**|Abhinav Suresh et.al.|[2407.21502](http://arxiv.org/abs/2407.21502)|null|
+|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491](http://arxiv.org/abs/2407.21491)|null|
+|**2024-07-31**|**Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval**|Zhirui Kuai et.al.|[2407.21488](http://arxiv.org/abs/2407.21488)|null|
+|**2024-07-31**|**Precoding Based Downlink OAM-MIMO Communications with Rate Splitting**|Ruirui Chen et.al.|[2407.21478](http://arxiv.org/abs/2407.21478)|null|
+|**2024-07-31**|**On the use of calibration data in error-aware compilation techniques for NISQ devices**|Handy Kurniawan et.al.|[2407.21462](http://arxiv.org/abs/2407.21462)|null|
+|**2024-07-31**|**A Ball Divergence Based Measure For Conditional Independence Testing**|Bilol Banerjee et.al.|[2407.21456](http://arxiv.org/abs/2407.21456)|null|
+|**2024-07-31**|**Varextropy of doubly truncated random variable**|Raheleh Zamini et.al.|[2407.21423](http://arxiv.org/abs/2407.21423)|null|
+|**2024-07-31**|**On-the-fly Point Feature Representation for Point Clouds Analysis**|Jiangyi Wang et.al.|[2407.21335](http://arxiv.org/abs/2407.21335)|null|
+|**2024-07-31**|**STANet: A Novel Spatio-Temporal Aggregation Network for Depression Classification with Small and Unbalanced FMRI Data**|Wei Zhang et.al.|[2407.21323](http://arxiv.org/abs/2407.21323)|null|
+|**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311](http://arxiv.org/abs/2407.21311)|null|
+|**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293](http://arxiv.org/abs/2407.21293)|null|
+|**2024-07-31**|**TrackSorter: A Transformer-based sorting algorithm for track finding in High Energy Physics**|Yash Melkani et.al.|[2407.21290](http://arxiv.org/abs/2407.21290)|null|
+|**2024-07-31**|**Robust Box Prompt based SAM for Medical Image Segmentation**|Yuhao Huang et.al.|[2407.21284](http://arxiv.org/abs/2407.21284)|null|
+|**2024-07-31**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281](http://arxiv.org/abs/2407.21281)|null|
+|**2024-07-31**|**FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations**|Rujia Shen et.al.|[2407.21275](http://arxiv.org/abs/2407.21275)|null|
+|**2024-07-31**|**On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems**|Aaqib Peerzada et.al.|[2407.21259](http://arxiv.org/abs/2407.21259)|null|
+|**2024-07-31**|**Leveraging Adaptive Implicit Representation Mapping for Ultra High-Resolution Image Segmentation**|Ziyu Zhao et.al.|[2407.21256](http://arxiv.org/abs/2407.21256)|null|
+|**2024-07-30**|**Bimodal Scaling Law and Size Effect In Superelastic Nanopillars**|Mostafa Karami et.al.|[2407.21246](http://arxiv.org/abs/2407.21246)|null|
+|**2024-07-30**|**Advancing Vietnamese Visual Question Answering with Transformer and Convolutional Integration**|Ngoc Son Nguyen et.al.|[2407.21229](http://arxiv.org/abs/2407.21229)|null|
+|**2024-07-30**|**Describe, Transform, Machine Learning: Feature Engineering for Grain Boundaries and Other Variable-Sized Atom Clusters**|C. Braxton Owens et.al.|[2407.21228](http://arxiv.org/abs/2407.21228)|null|
+|**2024-07-30**|**Position space equations for generic Feynman graphs**|V. Mishnyakov et.al.|[2407.21200](http://arxiv.org/abs/2407.21200)|null|
+|**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|null|
+|**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185](http://arxiv.org/abs/2407.21185)|null|
+|**2024-07-30**|**DKL-KAN: Scalable Deep Kernel Learning using Kolmogorov-Arnold Networks**|Shrenik Zinage et.al.|[2407.21176](http://arxiv.org/abs/2407.21176)|null|
+|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|null|
+|**2024-07-30**|**Embedding Space Selection for Detecting Memorization and Fingerprinting in Generative Models**|Jack He et.al.|[2407.21159](http://arxiv.org/abs/2407.21159)|null|
+|**2024-07-30**|**Zero Shot Health Trajectory Prediction Using Transformer**|Pawel Renc et.al.|[2407.21124](http://arxiv.org/abs/2407.21124)|null|
+|**2024-07-30**|**Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation**|Kaier Liang et.al.|[2407.21090](http://arxiv.org/abs/2407.21090)|null|
+|**2024-07-30**|**Accelerating Large Language Model Inference with Self-Supervised Early Exits**|Florian Valade et.al.|[2407.21082](http://arxiv.org/abs/2407.21082)|null|
+|**2024-07-30**|**Artificial Intelligence Enhanced Digital Nucleic Acid Amplification Testing for Precision Medicine and Molecular Diagnostics**|Yuanyuan Wei et.al.|[2407.21080](http://arxiv.org/abs/2407.21080)|null|
+|**2024-07-28**|**ELP-Adapters: Parameter Efficient Adapter Tuning for Various Speech Processing Tasks**|Nakamasa Inoue et.al.|[2407.21066](http://arxiv.org/abs/2407.21066)|null|
+|**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu et.al.|[2407.21065](http://arxiv.org/abs/2407.21065)|null|
+|**2024-07-26**|**Hybrid Heuristic Algorithms for Adiabatic Quantum Machine Learning Models**|Bahram Alidaee et.al.|[2407.21062](http://arxiv.org/abs/2407.21062)|null|
+|**2024-07-26**|**Using Large Language Models for the Interpretation of Building Regulations**|Stefan Fuchs et.al.|[2407.21060](http://arxiv.org/abs/2407.21060)|null|
+|**2024-07-26**|**Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks**|Yunfan Gao et.al.|[2407.21059](http://arxiv.org/abs/2407.21059)|null|
+|**2024-07-24**|**What Matters in Explanations: Towards Explainable Fake Review Detection Focusing on Transformers**|Md Shajalal et.al.|[2407.21056](http://arxiv.org/abs/2407.21056)|null|
+|**2024-07-23**|**Knowledge Models for Cancer Clinical Practice Guidelines : Construction, Management and Usage in Question Answering**|Pralaypati Ta et.al.|[2407.21053](http://arxiv.org/abs/2407.21053)|null|
+|**2024-07-23**|**Artificial Intelligence in Extracting Diagnostic Data from Dental Records**|Yao-Shun Chuang et.al.|[2407.21050](http://arxiv.org/abs/2407.21050)|null|
+|**2024-07-15**|**E-Commerce Product Recommendation System based on ML Algorithms**|Md. Zahurul Haque et.al.|[2407.21026](http://arxiv.org/abs/2407.21026)|null|
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2024-07-30**|**Darboux equivalence for matrix-valued orthogonal polynomials**|Ignacio Bono Parisi et.al.|[2407.20994](http://arxiv.org/abs/2407.20994)|null|
 |**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
