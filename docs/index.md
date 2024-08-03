@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.02
+## Updated on 2024.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -596,7 +596,7 @@ layout: default
 |**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|null|
 |**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185](http://arxiv.org/abs/2407.21185)|null|
 |**2024-07-30**|**DKL-KAN: Scalable Deep Kernel Learning using Kolmogorov-Arnold Networks**|Shrenik Zinage et.al.|[2407.21176](http://arxiv.org/abs/2407.21176)|null|
-|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|null|
+|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|**[link](https://github.com/enyen/NewStableTactileGrasp)**|
 |**2024-07-30**|**Embedding Space Selection for Detecting Memorization and Fingerprinting in Generative Models**|Jack He et.al.|[2407.21159](http://arxiv.org/abs/2407.21159)|null|
 |**2024-07-30**|**Zero Shot Health Trajectory Prediction Using Transformer**|Pawel Renc et.al.|[2407.21124](http://arxiv.org/abs/2407.21124)|null|
 |**2024-07-30**|**Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation**|Kaier Liang et.al.|[2407.21090](http://arxiv.org/abs/2407.21090)|null|

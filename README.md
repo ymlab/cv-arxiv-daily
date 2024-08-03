@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.02
+## Updated on 2024.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -544,7 +544,7 @@
 |**2014-04-28**|**Evaluating the Assessment of Software Fault-Freeness**|John Rushby et.al.|[1404.6844](http://arxiv.org/abs/1404.6844)|null|
 |**2013-10-01**|**Optimal Routing and Scheduling of Charge for Electric Vehicles: Case Study**|John Barco et.al.|[1310.0145](http://arxiv.org/abs/1310.0145)|null|
 
-<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
 
 ## Transformer
 
@@ -602,7 +602,7 @@
 |**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|null|
 |**2024-07-30**|**Amelia: A Large Model and Dataset for Airport Surface Movement Forecasting**|Ingrid Navarro et.al.|[2407.21185](http://arxiv.org/abs/2407.21185)|null|
 |**2024-07-30**|**DKL-KAN: Scalable Deep Kernel Learning using Kolmogorov-Arnold Networks**|Shrenik Zinage et.al.|[2407.21176](http://arxiv.org/abs/2407.21176)|null|
-|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|null|
+|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|**[link](https://github.com/enyen/NewStableTactileGrasp)**|
 |**2024-07-30**|**Embedding Space Selection for Detecting Memorization and Fingerprinting in Generative Models**|Jack He et.al.|[2407.21159](http://arxiv.org/abs/2407.21159)|null|
 |**2024-07-30**|**Zero Shot Health Trajectory Prediction Using Transformer**|Pawel Renc et.al.|[2407.21124](http://arxiv.org/abs/2407.21124)|null|
 |**2024-07-30**|**Learning Optimal Signal Temporal Logic Decision Trees for Classification: A Max-Flow MILP Formulation**|Kaier Liang et.al.|[2407.21090](http://arxiv.org/abs/2407.21090)|null|
@@ -3132,7 +3132,7 @@
 |**2024-06-13**|**Generating QES potentials supporting zero energy normalizable states for an extended class of truncated Calogero Sutherland model**|Satish Yadav et.al.|[2406.09164](http://arxiv.org/abs/2406.09164)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 
-<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
