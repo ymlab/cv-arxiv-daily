@@ -550,6 +550,63 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749](http://arxiv.org/abs/2408.00749)|null|
+|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738](http://arxiv.org/abs/2408.00738)|null|
+|**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
+|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714](http://arxiv.org/abs/2408.00714)|null|
+|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
+|**2024-08-01**|**Future of Artificial Intelligence in Agile Software Development**|Mariyam Mahboob et.al.|[2408.00703](http://arxiv.org/abs/2408.00703)|null|
+|**2024-08-01**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677](http://arxiv.org/abs/2408.00677)|null|
+|**2024-08-01**|**Refinement of genetic variants needs attention**|Omar Abdelwahab et.al.|[2408.00659](http://arxiv.org/abs/2408.00659)|null|
+|**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629](http://arxiv.org/abs/2408.00629)|null|
+|**2024-08-01**|**Downstream bias mitigation is all you need**|Arkadeep Baksi et.al.|[2408.00612](http://arxiv.org/abs/2408.00612)|null|
+|**2024-08-01**|**Dimension reduction for large-scale stochastic systems with non-zero initial states and controlled diffusion**|Martin Redmann et.al.|[2408.00581](http://arxiv.org/abs/2408.00581)|null|
+|**2024-08-01**|**Gray (skew) multicategories: double and Gray-categorical cases**|Bojana Femić et.al.|[2408.00561](http://arxiv.org/abs/2408.00561)|null|
+|**2024-08-01**|**Illustrating Classic Brazilian Books using a Text-To-Image Diffusion Model**|Felipe Mahlow et.al.|[2408.00544](http://arxiv.org/abs/2408.00544)|null|
+|**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516](http://arxiv.org/abs/2408.00516)|null|
+|**2024-08-01**|**Block-Operations: Using Modular Routing to Improve Compositional Generalization**|Florian Dietz et.al.|[2408.00508](http://arxiv.org/abs/2408.00508)|null|
+|**2024-08-01**|**Fast and scalable finite-element based approach for density functional theory calculations using projector-augmented wave method**|Kartick Ramakrishnan et.al.|[2408.00504](http://arxiv.org/abs/2408.00504)|null|
+|**2024-08-01**|**SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation**|Shengbo Tan et.al.|[2408.00496](http://arxiv.org/abs/2408.00496)|null|
+|**2024-08-01**|**Asymptotic windings, surface helicity and their applications in plasma physics**|Wadim Gerner et.al.|[2408.00492](http://arxiv.org/abs/2408.00492)|null|
+|**2024-08-01**|**Absolute-value based preconditioner for complex-shifted Laplacian systems**|Xuelei Lin et.al.|[2408.00488](http://arxiv.org/abs/2408.00488)|null|
+|**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](http://arxiv.org/abs/2408.00438)|null|
+|**2024-08-01**|**MPT-PAR:Mix-Parameters Transformer for Panoramic Activity Recognition**|Wenqing Gan et.al.|[2408.00420](http://arxiv.org/abs/2408.00420)|null|
+|**2024-08-01**|**What comes after transformers? -- A selective survey connecting ideas in deep learning**|Johannes Schneider et.al.|[2408.00386](http://arxiv.org/abs/2408.00386)|null|
+|**2024-08-01**|**Solutions of generalized constrained discrete KP hierarchy**|Xuepu Mu et.al.|[2408.00383](http://arxiv.org/abs/2408.00383)|null|
+|**2024-08-01**|**A deep spatio-temporal attention model of dynamic functional network connectivity shows sensitivity to Alzheimer's in asymptomatic individuals**|Yuxiang Wei et.al.|[2408.00378](http://arxiv.org/abs/2408.00378)|null|
+|**2024-08-01**|**A Nečas-Lions inequality with symmetric gradients on star-shaped domains based on a first order Babuška-Aziz inequality**|Michele Botti et.al.|[2408.00371](http://arxiv.org/abs/2408.00371)|null|
+|**2024-08-01**|**DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**|Fan Zhang et.al.|[2408.00370](http://arxiv.org/abs/2408.00370)|null|
+|**2024-08-01**|**DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**|Yu Xie et.al.|[2408.00355](http://arxiv.org/abs/2408.00355)|null|
+|**2024-08-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347](http://arxiv.org/abs/2408.00347)|null|
+|**2024-08-01**|**OTAD: An Optimal Transport-Induced Robust Model for Agnostic Adversarial Attack**|Kuo Gai et.al.|[2408.00329](http://arxiv.org/abs/2408.00329)|null|
+|**2024-08-01**|**Translating Imaging to Genomics: Leveraging Transformers for Predictive Modeling**|Aiman Farooq et.al.|[2408.00311](http://arxiv.org/abs/2408.00311)|null|
+|**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286](http://arxiv.org/abs/2408.00286)|null|
+|**2024-08-01**|**Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation**|Xinhan Di et.al.|[2408.00284](http://arxiv.org/abs/2408.00284)|null|
+|**2024-08-01**|**Riesz transforms associated with the twisted Laplacian with drift**|Nishta Garg et.al.|[2408.00282](http://arxiv.org/abs/2408.00282)|null|
+|**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280](http://arxiv.org/abs/2408.00280)|null|
+|**2024-08-01**|**Stochastic Domination of Exit Times for Random Walks and Brownian Motion with Drift**|Xi Geng et.al.|[2408.00277](http://arxiv.org/abs/2408.00277)|null|
+|**2024-08-01**|**Clover-2: Accurate Inference for Regressive Lightweight Speculative Decoding**|Bin Xiao et.al.|[2408.00264](http://arxiv.org/abs/2408.00264)|null|
+|**2024-08-01**|**Decoupled Anisotropic Buchdahl's Relativistic Models in $f(\mathbb{R},\mathbb{T})$ Theory**|Tayyab Naseer et.al.|[2408.00259](http://arxiv.org/abs/2408.00259)|null|
+|**2024-08-01**|**Improving Image De-raining Using Reference-Guided Transformers**|Zihao Ye et.al.|[2408.00258](http://arxiv.org/abs/2408.00258)|null|
+|**2024-08-01**|**Enhanced Structured State Space Models via Grouped FIR Filtering and Attention Sink Mechanisms**|Tian Meng et.al.|[2408.00244](http://arxiv.org/abs/2408.00244)|null|
+|**2024-08-01**|**Invariant Discovery of Features Across Multiple Length Scales: Applications in Microscopy and Autonomous Materials Characterization**|Aditya Raghavan et.al.|[2408.00229](http://arxiv.org/abs/2408.00229)|null|
+|**2024-08-01**|**Clutter-Aware Spill-Free Liquid Transport via Learned Dynamics**|Ava Abderezaei et.al.|[2408.00215](http://arxiv.org/abs/2408.00215)|null|
+|**2024-08-01**|**Penzai + Treescope: A Toolkit for Interpreting, Visualizing, and Editing Models As Data**|Daniel D. Johnson et.al.|[2408.00211](http://arxiv.org/abs/2408.00211)|null|
+|**2024-08-01**|**Sentence-wise Speech Summarization: Task, Datasets, and End-to-End Modeling with LM Knowledge Distillation**|Kohei Matsuura et.al.|[2408.00205](http://arxiv.org/abs/2408.00205)|null|
+|**2024-07-31**|**Automated Software Vulnerability Static Code Analysis Using Generative Pre-Trained Transformer Models**|Elijah Pelofske et.al.|[2408.00197](http://arxiv.org/abs/2408.00197)|null|
+|**2024-07-31**|**$q$ -Binomial Identities Finder**|Hao Zhong et.al.|[2408.00186](http://arxiv.org/abs/2408.00186)|null|
+|**2024-07-31**|**CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation**|Shreyank N Gowda et.al.|[2408.00181](http://arxiv.org/abs/2408.00181)|null|
+|**2024-07-31**|**Matroid reinforcement and sparsification**|Huy Truong et.al.|[2408.00173](http://arxiv.org/abs/2408.00173)|null|
+|**2024-07-31**|**SU(2) gauge theory with one and two adjoint fermions towards the continuum limit**|Andreas Athenodorou et.al.|[2408.00171](http://arxiv.org/abs/2408.00171)|null|
+|**2024-07-31**|**Vera Verto: Multimodal Hijacking Attack**|Minxing Zhang et.al.|[2408.00129](http://arxiv.org/abs/2408.00129)|null|
+|**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
+|**2024-07-31**|**Gemma 2: Improving Open Language Models at a Practical Size**|Gemma Team et.al.|[2408.00118](http://arxiv.org/abs/2408.00118)|null|
+|**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
+|**2024-07-31**|**Designing Beyond Current Conceptualizations of Spaceflight Experiences**|James Cole et.al.|[2408.00085](http://arxiv.org/abs/2408.00085)|null|
+|**2024-07-31**|**Quantum circuit compilation with quantum computers**|Davide Rattacaso et.al.|[2408.00077](http://arxiv.org/abs/2408.00077)|null|
+|**2024-07-31**|**Highly-efficient quantum Fourier transformations for some nonabelian groups**|Edison Muarari et.al.|[2408.00075](http://arxiv.org/abs/2408.00075)|null|
+|**2024-07-31**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038](http://arxiv.org/abs/2408.00038)|null|
+|**2024-07-31**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
 |**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783](http://arxiv.org/abs/2407.21783)|null|
 |**2024-07-31**|**Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder**|Arnold Yang et.al.|[2407.21774](http://arxiv.org/abs/2407.21774)|null|
 |**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|null|
