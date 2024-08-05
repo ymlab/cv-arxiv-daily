@@ -2145,7 +2145,7 @@ layout: default
 |**2024-07-18**|**Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment**|Janghwan Lee et.al.|[2407.03051](http://arxiv.org/abs/2407.03051)|null|
 |**2024-07-03**|**Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model**|Xia Hou et.al.|[2407.03040](http://arxiv.org/abs/2407.03040)|null|
 |**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033](http://arxiv.org/abs/2407.03033)|null|
-|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|null|
+|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|**[link](https://github.com/xmed-lab/geca)**|
 |**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006](http://arxiv.org/abs/2407.03006)|**[link](https://github.com/xianggao1102/fcdiffusion)**|
 |**2024-07-03**|**Human-like Linguistic Biases in Neural Speech Models: Phonetic Categorization and Phonotactic Constraints in Wav2Vec2.0**|Marianne de Heer Kloots et.al.|[2407.03005](http://arxiv.org/abs/2407.03005)|**[link](https://github.com/mdhk/phonotactic-sensitivity)**|
 |**2024-07-03**|**Scientific Text Analysis with Robots applied to observatory proposals**|T. Jerabkova et.al.|[2407.02992](http://arxiv.org/abs/2407.02992)|null|
