@@ -544,6 +544,57 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402](http://arxiv.org/abs/2408.01402)|null|
+|**2024-08-02**|**NOLO: Navigate Only Look Once**|Bohan Zhou et.al.|[2408.01384](http://arxiv.org/abs/2408.01384)|null|
+|**2024-08-02**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372](http://arxiv.org/abs/2408.01372)|null|
+|**2024-08-02**|**Transformers are Universal In-context Learners**|Takashi Furuya et.al.|[2408.01367](http://arxiv.org/abs/2408.01367)|null|
+|**2024-08-02**|**Thermodynamics of the parity-doublet model: Asymmetric and neutron matter**|Jürgen Eser et.al.|[2408.01302](http://arxiv.org/abs/2408.01302)|null|
+|**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|null|
+|**2024-08-02**|**3DPX: Progressive 2D-to-3D Oral Image Reconstruction with Hybrid MLP-CNN Networks**|Xiaoshuang Li et.al.|[2408.01292](http://arxiv.org/abs/2408.01292)|null|
+|**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276](http://arxiv.org/abs/2408.01276)|null|
+|**2024-08-02**|**HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer**|Wenyan Xu et.al.|[2408.01271](http://arxiv.org/abs/2408.01271)|null|
+|**2024-08-02**|**WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01231](http://arxiv.org/abs/2408.01231)|null|
+|**2024-08-02**|**HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling**|YiFan Hao et.al.|[2408.01230](http://arxiv.org/abs/2408.01230)|null|
+|**2024-08-02**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224](http://arxiv.org/abs/2408.01224)|null|
+|**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181](http://arxiv.org/abs/2408.01181)|null|
+|**2024-08-02**|**Nested Music Transformer: Sequentially Decoding Compound Tokens in Symbolic Music and Audio Generation**|Jiwoo Ryu et.al.|[2408.01180](http://arxiv.org/abs/2408.01180)|null|
+|**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168](http://arxiv.org/abs/2408.01168)|null|
+|**2024-08-02**|**Rethinking Pre-trained Feature Extractor Selection in Multiple Instance Learning for Whole Slide Image Classification**|Bryan Wong et.al.|[2408.01167](http://arxiv.org/abs/2408.01167)|null|
+|**2024-08-02**|**PreMix: Boosting Multiple Instance Learning in Digital Histopathology through Pre-training with Intra-Batch Slide Mixing**|Bryan Wong et.al.|[2408.01162](http://arxiv.org/abs/2408.01162)|null|
+|**2024-08-02**|**Dispersive Effective Model in the Time-Domain for Acoustic Waves Propagating in Bubbly Media**|Arpan Mukherjee et.al.|[2408.01158](http://arxiv.org/abs/2408.01158)|null|
+|**2024-08-02**|**TCR-GPT: Integrating Autoregressive Model and Reinforcement Learning for T-Cell Receptor Repertoires Generation**|Yicheng Lin et.al.|[2408.01156](http://arxiv.org/abs/2408.01156)|null|
+|**2024-08-02**|**Information transfer by entangled photons without auxiliary non-quantum channel**|Levente Szabó et.al.|[2408.01150](http://arxiv.org/abs/2408.01150)|null|
+|**2024-08-02**|**Actra: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning**|Yueen Ma et.al.|[2408.01147](http://arxiv.org/abs/2408.01147)|null|
+|**2024-08-02**|**TransRx-6G-V2X : Transformer Encoder-Based Deep Neural Receiver For Next Generation of Cellular Vehicular Communications**|Osama Saleem et.al.|[2408.01145](http://arxiv.org/abs/2408.01145)|null|
+|**2024-08-02**|**PGNeXt: High-Resolution Salient Object Detection via Pyramid Grafting Network**|Changqun Xia et.al.|[2408.01137](http://arxiv.org/abs/2408.01137)|null|
+|**2024-08-02**|**A Survey of Mamba**|Haohao Qu et.al.|[2408.01129](http://arxiv.org/abs/2408.01129)|null|
+|**2024-08-02**|**An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding**|Wei Chen et.al.|[2408.01120](http://arxiv.org/abs/2408.01120)|null|
+|**2024-08-02**|**IAI Group at CheckThat! 2024: Transformer Models and Data Augmentation for Checkworthy Claim Detection**|Peter Røysland Aarnes et.al.|[2408.01118](http://arxiv.org/abs/2408.01118)|null|
+|**2024-08-02**|**Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding**|Danbinaerin Han et.al.|[2408.01096](http://arxiv.org/abs/2408.01096)|null|
+|**2024-08-02**|**+SSLIP: Automated Radon-assisted and Rotation-corrected identification of complex HCP slip system activity fields from DIC data**|T. Vermeij et.al.|[2408.01087](http://arxiv.org/abs/2408.01087)|null|
+|**2024-08-02**|**Topological Casimir effect in models with helical compact dimensions**|R. M. Avagyan et.al.|[2408.01082](http://arxiv.org/abs/2408.01082)|null|
+|**2024-08-02**|**FCDFusion: a Fast, Low Color Deviation Method for Fusing Visible and Infrared Image Pairs**|Hesong Li et.al.|[2408.01080](http://arxiv.org/abs/2408.01080)|null|
+|**2024-08-02**|**Leveraging Large Language Models for Mobile App Review Feature Extraction**|Quim Motger et.al.|[2408.01063](http://arxiv.org/abs/2408.01063)|null|
+|**2024-08-02**|**Bosonic Holes in Quadratic Bosonic Systems**|Jia-Ming Hu et.al.|[2408.01059](http://arxiv.org/abs/2408.01059)|null|
+|**2024-08-02**|**Enhancing the MILP/MIQCP-based Automatic Search for Differential-Linear Distinguishers of Simon-Like Ciphers**|Siwei Chen et.al.|[2408.01052](http://arxiv.org/abs/2408.01052)|null|
+|**2024-08-02**|**Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix**|Seungeun Oh et.al.|[2408.01040](http://arxiv.org/abs/2408.01040)|null|
+|**2024-08-02**|**UNER: A Unified Prediction Head for Named Entity Recognition in Visually-rich Documents**|Yi Tu et.al.|[2408.01038](http://arxiv.org/abs/2408.01038)|null|
+|**2024-08-02**|**MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**|Xiangbo Gao et.al.|[2408.01037](http://arxiv.org/abs/2408.01037)|null|
+|**2024-08-02**|**POA: Pre-training Once for Models of All Sizes**|Yingying Zhang et.al.|[2408.01031](http://arxiv.org/abs/2408.01031)|null|
+|**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026](http://arxiv.org/abs/2408.01026)|null|
+|**2024-08-02**|**Adaptive Two-Stage Cloud Resource Scaling via Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making**|Yang Luo et.al.|[2408.01000](http://arxiv.org/abs/2408.01000)|null|
+|**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989](http://arxiv.org/abs/2408.00989)|null|
+|**2024-08-02**|**Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks**|Daniel A. Serino et.al.|[2408.00985](http://arxiv.org/abs/2408.00985)|null|
+|**2024-08-02**|**META-ANOVA: Screening interactions for interpretable machine learning**|Yongchan Choi et.al.|[2408.00973](http://arxiv.org/abs/2408.00973)|null|
+|**2024-08-01**|**Digital capabilities assessment for supporting the transformation of the customer experience**|Munoz Leonardo et.al.|[2408.00954](http://arxiv.org/abs/2408.00954)|null|
+|**2024-08-01**|**Multi-controlled single-qubit unitary gates based on the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2408.00935](http://arxiv.org/abs/2408.00935)|null|
+|**2024-08-01**|**The Harmonic Exponential Filter for Nonparametric Estimation on Motion Groups**|Miguel Saavedra-Ruiz et.al.|[2408.00907](http://arxiv.org/abs/2408.00907)|null|
+|**2024-08-01**|**Peptide Sequencing Via Protein Language Models**|Thuong Le Hoai Pham et.al.|[2408.00892](http://arxiv.org/abs/2408.00892)|null|
+|**2024-08-01**|**UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation**|Juzheng Zhang et.al.|[2408.00863](http://arxiv.org/abs/2408.00863)|null|
+|**2024-07-18**|**From 2015 to 2023: How Machine Learning Aids Natural Product Analysis**|Suwen Shi et.al.|[2408.00793](http://arxiv.org/abs/2408.00793)|null|
+|**2024-07-17**|**Improving Audio Spectrogram Transformers for Sound Event Detection Through Multi-Stage Training**|Florian Schmid et.al.|[2408.00791](http://arxiv.org/abs/2408.00791)|null|
+|**2024-07-17**|**Learning Structurally Stabilized Representations for Multi-modal Lossless DNA Storage**|Ben Cao et.al.|[2408.00779](http://arxiv.org/abs/2408.00779)|null|
+|**2024-07-16**|**CATD: Unified Representation Learning for EEG-to-fMRI Cross-Modal Generation**|Weiheng Yao et.al.|[2408.00777](http://arxiv.org/abs/2408.00777)|null|
 |**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749](http://arxiv.org/abs/2408.00749)|null|
 |**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738](http://arxiv.org/abs/2408.00738)|null|
 |**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
