@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -752,7 +752,7 @@ layout: default
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-31**|**Designing Beyond Current Conceptualizations of Spaceflight Experiences**|James Cole et.al.|[2408.00085](http://arxiv.org/abs/2408.00085)|null|
 |**2024-07-31**|**Quantum circuit compilation with quantum computers**|Davide Rattacaso et.al.|[2408.00077](http://arxiv.org/abs/2408.00077)|null|
-|**2024-07-31**|**Highly-efficient quantum Fourier transformations for some nonabelian groups**|Edison Muarari et.al.|[2408.00075](http://arxiv.org/abs/2408.00075)|null|
+|**2024-08-05**|**Highly-efficient quantum Fourier transformations for some nonabelian groups**|Edison M. Murairi et.al.|[2408.00075](http://arxiv.org/abs/2408.00075)|null|
 |**2024-07-31**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038](http://arxiv.org/abs/2408.00038)|null|
 |**2024-08-02**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
 |**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783](http://arxiv.org/abs/2407.21783)|null|
@@ -798,7 +798,7 @@ layout: default
 |**2024-07-31**|**Robust Box Prompt based SAM for Medical Image Segmentation**|Yuhao Huang et.al.|[2407.21284](http://arxiv.org/abs/2407.21284)|null|
 |**2024-07-31**|**Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data Transfers**|Marcelo Corrales Compagnucci et.al.|[2407.21281](http://arxiv.org/abs/2407.21281)|null|
 |**2024-07-31**|**FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations**|Rujia Shen et.al.|[2407.21275](http://arxiv.org/abs/2407.21275)|null|
-|**2024-07-31**|**On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems**|Aaqib Peerzada et.al.|[2407.21259](http://arxiv.org/abs/2407.21259)|null|
+|**2024-08-05**|**On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems**|Aaqib Peerzada et.al.|[2407.21259](http://arxiv.org/abs/2407.21259)|null|
 |**2024-07-31**|**Leveraging Adaptive Implicit Representation Mapping for Ultra High-Resolution Image Segmentation**|Ziyu Zhao et.al.|[2407.21256](http://arxiv.org/abs/2407.21256)|null|
 |**2024-07-30**|**Bimodal Scaling Law and Size Effect In Superelastic Nanopillars**|Mostafa Karami et.al.|[2407.21246](http://arxiv.org/abs/2407.21246)|null|
 |**2024-07-30**|**Advancing Vietnamese Visual Question Answering with Transformer and Convolutional Integration**|Ngoc Son Nguyen et.al.|[2407.21229](http://arxiv.org/abs/2407.21229)|null|
@@ -1096,7 +1096,7 @@ layout: default
 |**2024-07-24**|**Quantum Entanglement, Quantum Teleportation, Multilinear Polynomials and Geometry**|Juan M. Romero et.al.|[2407.17621](http://arxiv.org/abs/2407.17621)|null|
 |**2024-07-23**|**S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks**|Neha A S et.al.|[2407.17587](http://arxiv.org/abs/2407.17587)|null|
 |**2024-07-24**|**Direct resonance problem for Rayleigh seismic surface waves**|Samuele Sottile et.al.|[2407.17580](http://arxiv.org/abs/2407.17580)|null|
-|**2024-07-29**|**CityX: Controllable Procedural Content Generation for Unbounded 3D Cities**|Shougao Zhang et.al.|[2407.17572](http://arxiv.org/abs/2407.17572)|null|
+|**2024-08-06**|**CityX: Controllable Procedural Content Generation for Unbounded 3D Cities**|Shougao Zhang et.al.|[2407.17572](http://arxiv.org/abs/2407.17572)|null|
 |**2024-07-24**|**Wavelet-based Autoencoder and EfficientNet for Schizophrenia Detection from EEG Signals**|Umesh Kumar Naik M et.al.|[2407.17540](http://arxiv.org/abs/2407.17540)|null|
 |**2024-07-24**|**Improved symbolic drum style classification with grammar-based hierarchical representations**|Léo Géré et.al.|[2407.17536](http://arxiv.org/abs/2407.17536)|null|
 |**2024-07-23**|**Interacting Null Sources in Different Geometries**|Chia-Li Hsieh et.al.|[2407.17528](http://arxiv.org/abs/2407.17528)|null|
