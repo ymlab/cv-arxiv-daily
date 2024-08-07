@@ -555,6 +555,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**CoverBench: A Challenging Benchmark for Complex Claim Verification**|Alon Jacovi et.al.|[2408.03325](http://arxiv.org/abs/2408.03325)|null|
+|**2024-08-06**|**ClassiFIM: An Unsupervised Method To Detect Phase Transitions**|Victor Kasatkin et.al.|[2408.03323](http://arxiv.org/abs/2408.03323)|null|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312](http://arxiv.org/abs/2408.03312)|null|
+|**2024-08-06**|**A non-Hermitian quantum mechanics approach for extracting and emulating continuum physics based on bound-state-like calculations**|Xilin Zhang et.al.|[2408.03309](http://arxiv.org/abs/2408.03309)|null|
+|**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
+|**2024-08-06**|**ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer**|Jiazhi Guan et.al.|[2408.03284](http://arxiv.org/abs/2408.03284)|null|
+|**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
+|**2024-08-06**|**Single-photon interference over 8.4 km urban atmosphere: towards testing quantum effect in curved spacetime with photons**|Hui-Nan Wu et.al.|[2408.03259](http://arxiv.org/abs/2408.03259)|null|
+|**2024-08-06**|**Crab Pulsar: IXPE Observations Reveal Unified Polarization Properties Across Optical and Soft X-Ray Bands**|Denis González-Caniulef et.al.|[2408.03245](http://arxiv.org/abs/2408.03245)|null|
+|**2024-08-06**|**MacWilliams Identities for Rank metric codes over Galois rings**|Iván Blanco-Chacón et.al.|[2408.03237](http://arxiv.org/abs/2408.03237)|null|
+|**2024-08-06**|**Learning to Learn without Forgetting using Attention**|Anna Vettoruzzo et.al.|[2408.03219](http://arxiv.org/abs/2408.03219)|null|
+|**2024-08-06**|**Bott-Chern characteristic classes of blow-ups**|Xiaojun Wu et.al.|[2408.03210](http://arxiv.org/abs/2408.03210)|null|
+|**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
+|**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172](http://arxiv.org/abs/2408.03172)|null|
+|**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
+|**2024-08-06**|**A generalization of the Choi isomorphism with application to open quantum systems**|Heinz-Jürgen Schmidt et.al.|[2408.03086](http://arxiv.org/abs/2408.03086)|null|
+|**2024-08-06**|**Matrix Multiplication on Quantum Computer**|Jiaqi Yao et.al.|[2408.03085](http://arxiv.org/abs/2408.03085)|null|
+|**2024-08-06**|**More General Soliton Solution for Vectorial Bose-Einstein Condensate**|P. S. Vinayagam et.al.|[2408.03082](http://arxiv.org/abs/2408.03082)|null|
+|**2024-08-06**|**Comb, Prune, Distill: Towards Unified Pruning for Vision Model Compression**|Jonas Schmitt et.al.|[2408.03046](http://arxiv.org/abs/2408.03046)|null|
+|**2024-08-06**|**Weighted shape-constrained estimation for the autocovariance sequence from a reversible Markov chain**|Hyebin Song et.al.|[2408.03024](http://arxiv.org/abs/2408.03024)|null|
+|**2024-08-06**|**Damage identification for bridges using machine learning: Development and application to KW51 bridge**|Yuqing Qiu et.al.|[2408.03002](http://arxiv.org/abs/2408.03002)|null|
+|**2024-08-06**|**Scattering theory for $C^2$ long-range potentials**|K. Ito et.al.|[2408.02979](http://arxiv.org/abs/2408.02979)|null|
+|**2024-08-06**|**Comparative analysis of stationarity for Bitcoin and the S&P500**|Yaoyue Tang et.al.|[2408.02973](http://arxiv.org/abs/2408.02973)|null|
+|**2024-08-06**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|null|
+|**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957](http://arxiv.org/abs/2408.02957)|null|
+|**2024-08-06**|**Numerical Ergodicity of Stochastic Allen--Cahn Equation driven by Multiplicative White Noise**|Zhihui Liu et.al.|[2408.02935](http://arxiv.org/abs/2408.02935)|null|
+|**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
+|**2024-08-06**|**Doubly Stochastic Adaptive Neighbors Clustering via the Marcus Mapping**|Jinghui Yuan et.al.|[2408.02932](http://arxiv.org/abs/2408.02932)|null|
+|**2024-08-06**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
+|**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
+|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
+|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840](http://arxiv.org/abs/2408.02840)|null|
+|**2024-08-05**|**Measuring the Impact of New Risk Factors Within Survival Models**|Glenn Heller et.al.|[2408.02770](http://arxiv.org/abs/2408.02770)|null|
+|**2024-08-05**|**A critical reassessment of "Restricted Weyl Symmetry"**|Dražen Glavan et.al.|[2408.02763](http://arxiv.org/abs/2408.02763)|null|
+|**2024-08-05**|**A New Twist on Spinning (A)dS Correlators**|Daniel Baumann et.al.|[2408.02727](http://arxiv.org/abs/2408.02727)|null|
+|**2024-08-05**|**MDM: Advancing Multi-Domain Distribution Matching for Automatic Modulation Recognition Dataset Synthesis**|Dongwei Xu et.al.|[2408.02714](http://arxiv.org/abs/2408.02714)|null|
+|**2024-08-05**|**Spatial-temporal Graph Convolutional Networks with Diversified Transformation for Dynamic Graph Representation Learning**|Ling Wang et.al.|[2408.02704](http://arxiv.org/abs/2408.02704)|null|
 |**2024-08-05**|**Noninvertible Gauge Symmetry in (2+1)d Topological Orders: A String-Net Model Realization**|Yu Zhao et.al.|[2408.02664](http://arxiv.org/abs/2408.02664)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-05**|**Wavenumber Calibration for an Imaging Refractometer**|A. Rososhek et.al.|[2408.02660](http://arxiv.org/abs/2408.02660)|null|
