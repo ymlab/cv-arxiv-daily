@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -111,7 +111,7 @@
 |**2024-04-10**|**SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving**|Diankun Zhang et.al.|[2404.06892](http://arxiv.org/abs/2404.06892)|null|
 |**2024-06-02**|**PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles**|Zhengru Fang et.al.|[2404.06891](http://arxiv.org/abs/2404.06891)|null|
 |**2024-04-10**|**Scaling Multi-Camera 3D Object Detection through Weak-to-Strong Eliciting**|Hao Lu et.al.|[2404.06700](http://arxiv.org/abs/2404.06700)|**[link](https://github.com/envision-research/scale-bev)**|
-|**2024-04-20**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/abs/2404.06605)|**[link](https://github.com/ztsrxh/roadbev)**|
+|**2024-08-07**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/abs/2404.06605)|**[link](https://github.com/ztsrxh/roadbev)**|
 |**2024-04-09**|**DaF-BEVSeg: Distortion-aware Fisheye Camera based Bird's Eye View Segmentation with Occlusion Reasoning**|Senthil Yogamani et.al.|[2404.06352](http://arxiv.org/abs/2404.06352)|null|
 |**2024-04-12**|**EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker**|Baojie Fan et.al.|[2404.05960](http://arxiv.org/abs/2404.05960)|null|
 |**2024-04-06**|**DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**|Duy-Tho Le et.al.|[2404.04629](http://arxiv.org/abs/2404.04629)|null|
@@ -549,7 +549,7 @@
 |**2014-04-28**|**Evaluating the Assessment of Software Fault-Freeness**|John Rushby et.al.|[1404.6844](http://arxiv.org/abs/1404.6844)|null|
 |**2013-10-01**|**Optimal Routing and Scheduling of Charge for Electric Vehicles: Case Study**|John Barco et.al.|[1310.0145](http://arxiv.org/abs/1310.0145)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 ## Transformer
 
@@ -583,7 +583,7 @@
 |**2024-08-06**|**Numerical Ergodicity of Stochastic Allen--Cahn Equation driven by Multiplicative White Noise**|Zhihui Liu et.al.|[2408.02935](http://arxiv.org/abs/2408.02935)|null|
 |**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
 |**2024-08-06**|**Doubly Stochastic Adaptive Neighbors Clustering via the Marcus Mapping**|Jinghui Yuan et.al.|[2408.02932](http://arxiv.org/abs/2408.02932)|null|
-|**2024-08-06**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
+|**2024-08-07**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922](http://arxiv.org/abs/2408.02922)|null|
 |**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899](http://arxiv.org/abs/2408.02899)|null|
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
 |**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840](http://arxiv.org/abs/2408.02840)|null|
@@ -765,7 +765,7 @@
 |**2024-08-01**|**What comes after transformers? -- A selective survey connecting ideas in deep learning**|Johannes Schneider et.al.|[2408.00386](http://arxiv.org/abs/2408.00386)|null|
 |**2024-08-01**|**Solutions of generalized constrained discrete KP hierarchy**|Xuepu Mu et.al.|[2408.00383](http://arxiv.org/abs/2408.00383)|null|
 |**2024-08-01**|**A deep spatio-temporal attention model of dynamic functional network connectivity shows sensitivity to Alzheimer's in asymptomatic individuals**|Yuxiang Wei et.al.|[2408.00378](http://arxiv.org/abs/2408.00378)|null|
-|**2024-08-01**|**A Nečas-Lions inequality with symmetric gradients on star-shaped domains based on a first order Babuška-Aziz inequality**|Michele Botti et.al.|[2408.00371](http://arxiv.org/abs/2408.00371)|null|
+|**2024-08-07**|**A Nečas-Lions inequality with symmetric gradients on star-shaped domains based on a first order Babuška-Aziz inequality**|Michele Botti et.al.|[2408.00371](http://arxiv.org/abs/2408.00371)|null|
 |**2024-08-01**|**DiM-Gesture: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2 framework**|Fan Zhang et.al.|[2408.00370](http://arxiv.org/abs/2408.00370)|null|
 |**2024-08-01**|**DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**|Yu Xie et.al.|[2408.00355](http://arxiv.org/abs/2408.00355)|null|
 |**2024-08-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347](http://arxiv.org/abs/2408.00347)|null|
@@ -1173,7 +1173,7 @@
 |**2024-07-24**|**The Hessian of elliptic curves**|Marzio Mula et.al.|[2407.17042](http://arxiv.org/abs/2407.17042)|null|
 |**2024-07-24**|**EAFormer: Scene Text Segmentation with Edge-Aware Transformers**|Haiyang Yu et.al.|[2407.17020](http://arxiv.org/abs/2407.17020)|null|
 |**2024-07-24**|**Progressive Query Refinement Framework for Bird's-Eye-View Semantic Segmentation from Surrounding Images**|Dooseop Choi et.al.|[2407.17003](http://arxiv.org/abs/2407.17003)|**[link](https://github.com/d1024choi/progressivequeryrefinenet)**|
-|**2024-07-24**|**LoFormer: Local Frequency Transformer for Image Deblurring**|Xintian Mao et.al.|[2407.16993](http://arxiv.org/abs/2407.16993)|**[link](https://github.com/deepmed-lab-ecnu/single-image-deblur)**|
+|**2024-07-24**|**LoFormer: Local Frequency Transformer for Image Deblurring**|Xintian Mao et.al.|[2407.16993](http://arxiv.org/abs/2407.16993)|null|
 |**2024-07-24**|**Sparse Tensor PCA via Tensor Decomposition for Unsupervised Feature Selection**|Junjing Zheng et.al.|[2407.16985](http://arxiv.org/abs/2407.16985)|**[link](https://github.com/zjj20212035/stpca)**|
 |**2024-07-24**|**Case-Enhanced Vision Transformer: Improving Explanations of Image Similarity with a ViT-based Similarity Metric**|Ziwei Zhao et.al.|[2407.16981](http://arxiv.org/abs/2407.16981)|null|
 |**2024-07-24**|**Oscillating and nonsummable Radon-Nikodym cocycles along the forward geodesic of measure-class-preserving transformations**|Sasha Bell et.al.|[2407.16967](http://arxiv.org/abs/2407.16967)|null|
@@ -1278,7 +1278,7 @@
 |**2024-07-28**|**Quantum Computing for Phonon Scattering Effects on Thermal Conductivity**|Xiangjun Tan et.al.|[2407.15808](http://arxiv.org/abs/2407.15808)|null|
 |**2024-07-22**|**Unbounded operators and the uncertainty principle**|Friedrich Haslinger et.al.|[2407.15803](http://arxiv.org/abs/2407.15803)|null|
 |**2024-07-26**|**Enhancing Mass Customization Manufacturing: Multiobjective Metaheuristic Algorithms for flow shop Production in Smart Industry**|Diego Rossit et.al.|[2407.15802](http://arxiv.org/abs/2407.15802)|null|
-|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-08-07**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793](http://arxiv.org/abs/2407.15793)|**[link](https://github.com/aimagelab/mammoth)**|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-22**|**Optimization complexity and resource minimization of emitter-based photonic graph state generation protocols**|Evangelia Takou et.al.|[2407.15777](http://arxiv.org/abs/2407.15777)|null|
 |**2024-07-12**|**Neural-based Video Compression on Solar Dynamics Observatory Images**|Atefeh Khoshkhahtinat et.al.|[2407.15730](http://arxiv.org/abs/2407.15730)|null|
@@ -1372,7 +1372,7 @@
 |**2024-07-19**|**Restricted Boltzmann Machines Propagators for Auxiliary Field Diffusion Monte Carlo**|Jordan M. R. Fox et.al.|[2407.14632](http://arxiv.org/abs/2407.14632)|null|
 |**2024-07-19**|**Astronomy's relationship with the lands and communities of Maunakea**|Jean-Gabriel Cuby et.al.|[2407.14629](http://arxiv.org/abs/2407.14629)|null|
 |**2024-07-19**|**Deep Learning-based 3D Coronary Tree Reconstruction from Two 2D Non-simultaneous X-ray Angiography Projections**|Yiying Wang et.al.|[2407.14616](http://arxiv.org/abs/2407.14616)|null|
-|**2024-07-21**|**Trading Devil Final: Backdoor attack via Stock market and Bayesian Optimization**|Orson Mengara et.al.|[2407.14573](http://arxiv.org/abs/2407.14573)|null|
+|**2024-08-07**|**Trading Devil Final: Backdoor attack via Stock market and Bayesian Optimization**|Orson Mengara et.al.|[2407.14573](http://arxiv.org/abs/2407.14573)|null|
 |**2024-07-19**|**Detecting and Characterising Mobile App Metamorphosis in Google Play Store**|D. Denipitiyage et.al.|[2407.14565](http://arxiv.org/abs/2407.14565)|null|
 |**2024-07-18**|**A Foundation Model for Soccer**|Ethan Baron et.al.|[2407.14558](http://arxiv.org/abs/2407.14558)|**[link](https://github.com/danielhocevar/foundation-model-for-soccer)**|
 |**2024-07-08**|**Spacetime representation of quantum mechanics and a proposal for quantum gravity**|Hong Wang et.al.|[2407.14528](http://arxiv.org/abs/2407.14528)|null|
@@ -3380,7 +3380,7 @@
 |**2024-06-13**|**Generating QES potentials supporting zero energy normalizable states for an extended class of truncated Calogero Sutherland model**|Satish Yadav et.al.|[2406.09164](http://arxiv.org/abs/2406.09164)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 
-<p align=right>(<a href=#updated-on-20240807>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
