@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## BEV
@@ -576,7 +576,7 @@ layout: default
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
 |**2024-08-07**|**An efficient preconditioner for evolutionary partial differential equations with $θ$ -method in time discretization**|Yuan-Yuan Huang et.al.|[2408.03535](http://arxiv.org/abs/2408.03535)|null|
 |**2024-08-07**|**Fast Partial Fourier Transforms for Large-Scale Ptychography**|Ricardo Parada et.al.|[2408.03532](http://arxiv.org/abs/2408.03532)|null|
-|**2024-08-07**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528](http://arxiv.org/abs/2408.03528)|null|
+|**2024-08-08**|**Exploring the extent of similarities in software failures across industries using LLMs**|Martin Detloff et.al.|[2408.03528](http://arxiv.org/abs/2408.03528)|null|
 |**2024-08-07**|**SwinShadow: Shifted Window for Ambiguous Adjacent Shadow Detection**|Yonghui Wang et.al.|[2408.03521](http://arxiv.org/abs/2408.03521)|null|
 |**2024-08-06**|**Advancing EEG-Based Gaze Prediction Using Depthwise Separable Convolution and Enhanced Pre-Processing**|Matthew L Key et.al.|[2408.03480](http://arxiv.org/abs/2408.03480)|null|
 |**2024-08-06**|**Effect of Kernel Size on CNN-Vision-Transformer-Based Gaze Prediction Using Electroencephalography Data**|Chuhui Qiu et.al.|[2408.03478](http://arxiv.org/abs/2408.03478)|**[link](https://github.com/amch-q/csci6907project)**|
@@ -599,7 +599,7 @@ layout: default
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-06**|**Single-photon interference over 8.4 km urban atmosphere: towards testing quantum effect in curved spacetime with photons**|Hui-Nan Wu et.al.|[2408.03259](http://arxiv.org/abs/2408.03259)|null|
 |**2024-08-06**|**Crab Pulsar: IXPE Observations Reveal Unified Polarization Properties Across Optical and Soft X-Ray Bands**|Denis González-Caniulef et.al.|[2408.03245](http://arxiv.org/abs/2408.03245)|null|
-|**2024-08-06**|**MacWilliams Identities for Rank metric codes over Galois rings**|Iván Blanco-Chacón et.al.|[2408.03237](http://arxiv.org/abs/2408.03237)|null|
+|**2024-08-08**|**MacWilliams Identities for Rank metric codes over Galois rings**|Iván Blanco-Chacón et.al.|[2408.03237](http://arxiv.org/abs/2408.03237)|null|
 |**2024-08-06**|**Learning to Learn without Forgetting using Attention**|Anna Vettoruzzo et.al.|[2408.03219](http://arxiv.org/abs/2408.03219)|null|
 |**2024-08-06**|**Bott-Chern characteristic classes of blow-ups**|Xiaojun Wu et.al.|[2408.03210](http://arxiv.org/abs/2408.03210)|null|
 |**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
@@ -613,7 +613,7 @@ layout: default
 |**2024-08-06**|**Damage identification for bridges using machine learning: Development and application to KW51 bridge**|Yuqing Qiu et.al.|[2408.03002](http://arxiv.org/abs/2408.03002)|null|
 |**2024-08-06**|**Scattering theory for $C^2$ long-range potentials**|K. Ito et.al.|[2408.02979](http://arxiv.org/abs/2408.02979)|null|
 |**2024-08-06**|**Comparative analysis of stationarity for Bitcoin and the S&P500**|Yaoyue Tang et.al.|[2408.02973](http://arxiv.org/abs/2408.02973)|null|
-|**2024-08-06**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|null|
+|**2024-08-07**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|null|
 |**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957](http://arxiv.org/abs/2408.02957)|null|
 |**2024-08-06**|**Numerical Ergodicity of Stochastic Allen--Cahn Equation driven by Multiplicative White Noise**|Zhihui Liu et.al.|[2408.02935](http://arxiv.org/abs/2408.02935)|null|
 |**2024-08-06**|**Learned Trimmed-Ridge Regression for Channel Estimation in Millimeter-Wave Massive MIMO**|Pengxia Wu et.al.|[2408.02934](http://arxiv.org/abs/2408.02934)|null|
@@ -651,7 +651,7 @@ layout: default
 |**2024-08-05**|**Electron-beam-induced modification of gold microparticles in an SEM**|Kristina Weinel et.al.|[2408.02409](http://arxiv.org/abs/2408.02409)|null|
 |**2024-08-05**|**Global Observability Analysis of a Growth Model for Insects Farming**|Rania Tafat et.al.|[2408.02395](http://arxiv.org/abs/2408.02395)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
-|**2024-08-05**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang et.al.|[2408.02369](http://arxiv.org/abs/2408.02369)|null|
+|**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang et.al.|[2408.02369](http://arxiv.org/abs/2408.02369)|null|
 |**2024-08-05**|**StoDIP: Efficient 3D MRF image reconstruction with deep image priors and stochastic iterations**|Perla Mayo et.al.|[2408.02367](http://arxiv.org/abs/2408.02367)|null|
 |**2024-08-05**|**Earth System Data Cubes: Avenues for advancing Earth system research**|David Montero et.al.|[2408.02348](http://arxiv.org/abs/2408.02348)|null|
 |**2024-08-05**|**Microscale chemical imaging to characterize and quantify corrosion processes at the metal-electrolyte interface**|Cristhiana C. Albert et.al.|[2408.02327](http://arxiv.org/abs/2408.02327)|null|
@@ -712,7 +712,7 @@ layout: default
 |**2024-08-03**|**radarODE: An ODE-Embedded Deep Learning Model for Contactless ECG Reconstruction from Millimeter-Wave Radar**|Yuanyuan Zhang et.al.|[2408.01672](http://arxiv.org/abs/2408.01672)|null|
 |**2024-08-03**|**Degrade to Function: Towards Eco-friendly Morphing Devices that Function Through Programmed Sequential Degradation**|Qiuyu Lu et.al.|[2408.01660](http://arxiv.org/abs/2408.01660)|null|
 |**2024-08-03**|**Transforming Slot Schema Induction with Generative Dialogue State Inference**|James D. Finch et.al.|[2408.01638](http://arxiv.org/abs/2408.01638)|null|
-|**2024-08-03**|**JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model**|Farzaneh Jafari et.al.|[2408.01627](http://arxiv.org/abs/2408.01627)|null|
+|**2024-08-03**|**JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model**|Farzaneh Jafari et.al.|[2408.01627](http://arxiv.org/abs/2408.01627)|null|
 |**2024-08-03**|**Advancing Mental Health Pre-Screening: A New Custom GPT for Psychological Distress Assessment**|Jinwen Tang et.al.|[2408.01614](http://arxiv.org/abs/2408.01614)|null|
 |**2024-08-02**|**OpenLogParser: Unsupervised Parsing with Open-Source Large Language Models**|Zeyang Ma et.al.|[2408.01585](http://arxiv.org/abs/2408.01585)|null|
 |**2024-08-02**|**Autonomous Integration of Bench-Top Wet Lab Equipment**|Zachary Logan et.al.|[2408.01576](http://arxiv.org/abs/2408.01576)|null|
@@ -835,10 +835,10 @@ layout: default
 |**2024-08-02**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|**[link](https://github.com/tunglm2203/tirl)**|
 |**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783](http://arxiv.org/abs/2407.21783)|null|
 |**2024-07-31**|**Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder**|Arnold Yang et.al.|[2407.21774](http://arxiv.org/abs/2407.21774)|null|
-|**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|null|
+|**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773](http://arxiv.org/abs/2407.21773)|**[link](https://github.com/TonyHongtaoWu/RainMamba)**|
 |**2024-07-31**|**No-Go Theorems for Universal Entanglement Purification**|Allen Zang et.al.|[2407.21760](http://arxiv.org/abs/2407.21760)|null|
 |**2024-07-31**|**Characterizing User Archetypes and Discussions on Scored.co**|Andrea Failla et.al.|[2407.21753](http://arxiv.org/abs/2407.21753)|null|
-|**2024-07-31**|**Discovery of 6G Services and Resources in Edge-Cloud-Continuum**|Mohammad Farhoudi et.al.|[2407.21751](http://arxiv.org/abs/2407.21751)|null|
+|**2024-08-08**|**Discovery of 6G Services and Resources in Edge-Cloud-Continuum**|Mohammad Farhoudi et.al.|[2407.21751](http://arxiv.org/abs/2407.21751)|null|
 |**2024-07-31**|**Waveform resampling with LMN method**|Lino Gerlach et.al.|[2407.21750](http://arxiv.org/abs/2407.21750)|null|
 |**2024-07-31**|**Mizuno's rank three Nahm sums II: identities of index $(1,2,2)$ and modular forms**|Boxue Wang et.al.|[2407.21725](http://arxiv.org/abs/2407.21725)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
@@ -1360,7 +1360,7 @@ layout: default
 |**2024-07-21**|**HERGen: Elevating Radiology Report Generation with Longitudinal Data**|Fuying Wang et.al.|[2407.15158](http://arxiv.org/abs/2407.15158)|null|
 |**2024-07-21**|**Anchored Diffusion for Video Face Reenactment**|Idan Kligvasser et.al.|[2407.15153](http://arxiv.org/abs/2407.15153)|null|
 |**2024-07-21**|**First-principles study of structural and electronic properties of multiferroic oxide Mn3TeO6 under high pressure**|Xiao-Long Pan et.al.|[2407.15150](http://arxiv.org/abs/2407.15150)|null|
-|**2024-07-21**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
+|**2024-08-08**|**Rethinking Feature Backbone Fine-tuning for Remote Sensing Object Detection**|Yechan Kim et.al.|[2407.15143](http://arxiv.org/abs/2407.15143)|null|
 |**2024-07-21**|**The directional short-time fractional Fourier transform of distributions**|Astrit Ferizi et.al.|[2407.15135](http://arxiv.org/abs/2407.15135)|null|
 |**2024-07-21**|**Bridging Dark Energy and Black Holes with EFT: Frame Transformation and Gravitational Wave Speed**|Shinji Mukohyama et.al.|[2407.15123](http://arxiv.org/abs/2407.15123)|null|
 |**2024-07-21**|**PFWNN: A deep learning method for solving forward and inverse problems of phase-field models**|Gang Bao et.al.|[2407.15092](http://arxiv.org/abs/2407.15092)|null|
