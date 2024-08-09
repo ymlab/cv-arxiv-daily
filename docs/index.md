@@ -24,6 +24,7 @@ layout: default
 |**1995-05-27**|**AN IMPROVED MEASURE OF QUASAR ORIENTATION**|Beverley J. Wills et.al.|[astro-ph/9505127](http://arxiv.org/abs/astro-ph/9505127)|null|
 |**2001-07-20**|**HST STIS Observations of PG 0946+301: the Highest Quality UV Spectrum of a BALQSO**|Nahum Arav et.al.|[astro-ph/0107414](http://arxiv.org/abs/astro-ph/0107414)|null|
 |**2001-05-25**|**A Study of Nine High-Redshift Clusters of Galaxies: IV. Photometry and Sp ectra of Clusters 1324+3011 and 1604+4321**|Marc Postman et.al.|[astro-ph/0105454](http://arxiv.org/abs/astro-ph/0105454)|null|
+|**2024-08-08**|**Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**|Ahmad Arrabi et.al.|[2408.04224](http://arxiv.org/abs/2408.04224)|**[link](https://gitlab.com/vail-uvm/gpg2a)**|
 |**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
 |**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
 |**2024-08-03**|**SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm**|Junyan Ye et.al.|[2408.01812](http://arxiv.org/abs/2408.01812)|null|
@@ -549,6 +550,52 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
+|**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604](http://arxiv.org/abs/2408.04604)|null|
+|**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
+|**2024-08-08**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
+|**2024-08-08**|**Meta-mechanisms for Combinatorial Auctions over Social Networks**|Yuan Fang et.al.|[2408.04555](http://arxiv.org/abs/2408.04555)|null|
+|**2024-08-08**|**Movelet Trees**|Travis Gagie et.al.|[2408.04537](http://arxiv.org/abs/2408.04537)|null|
+|**2024-08-08**|**Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding**|Yun Tian et.al.|[2408.04535](http://arxiv.org/abs/2408.04535)|null|
+|**2024-08-08**|**How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression**|Xingwu Chen et.al.|[2408.04532](http://arxiv.org/abs/2408.04532)|null|
+|**2024-08-08**|**Feedback Design with VQ-VAE for Robust Precoding in Multi-User FDD Systems**|Nurettin Turan et.al.|[2408.04505](http://arxiv.org/abs/2408.04505)|null|
+|**2024-08-08**|**Symmetric Encryption Scheme Based on Quasigroup Using Chained Mode of Operation**|Satish Kumar et.al.|[2408.04490](http://arxiv.org/abs/2408.04490)|null|
+|**2024-08-08**|**Crowd Intelligence for Early Misinformation Prediction on Social Media**|Megha Sundriyal et.al.|[2408.04463](http://arxiv.org/abs/2408.04463)|null|
+|**2024-08-08**|**The Transition from Galaxy-wide Gas Inflow to Outflow in Quasar Host Galaxies**|Zhicheng He et.al.|[2408.04458](http://arxiv.org/abs/2408.04458)|null|
+|**2024-08-08**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440](http://arxiv.org/abs/2408.04440)|null|
+|**2024-08-08**|**Deeploy: Enabling Energy-Efficient Deployment of Small Language Models On Heterogeneous Microcontrollers**|Moritz Scherer et.al.|[2408.04413](http://arxiv.org/abs/2408.04413)|null|
+|**2024-08-08**|**Transverse instability of electron-acoustic solitons in a relativistic degenerate astrophysical magnetoplasma**|A. P. Misra et.al.|[2408.04404](http://arxiv.org/abs/2408.04404)|null|
+|**2024-08-08**|**Adelic and Rational Grassmannians for finite dimensional algebras**|Emil Horozov et.al.|[2408.04355](http://arxiv.org/abs/2408.04355)|null|
+|**2024-08-08**|**Exotic Kondo effect in two one dimensional spin 1/2 chains coupled to two localized spin 1/2 magnets**|Igor Kuzmenko et.al.|[2408.04353](http://arxiv.org/abs/2408.04353)|null|
+|**2024-08-08**|**Towards Explainable Network Intrusion Detection using Large Language Models**|Paul R. B. Houssel et.al.|[2408.04342](http://arxiv.org/abs/2408.04342)|null|
+|**2024-08-08**|**Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection**|Shixuan Gao et.al.|[2408.04326](http://arxiv.org/abs/2408.04326)|null|
+|**2024-08-08**|**Transforming Time-Varying to Static Channels: The Power of Fluid Antenna Mobility**|Weidong Li et.al.|[2408.04320](http://arxiv.org/abs/2408.04320)|null|
+|**2024-08-08**|**TheGlueNote: Learned Representations for Robust and Flexible Note Alignment**|Silvan David Peter et.al.|[2408.04309](http://arxiv.org/abs/2408.04309)|**[link](https://github.com/sildater/thegluenote)**|
+|**2024-08-08**|**Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach**|Alireza Saber et.al.|[2408.04290](http://arxiv.org/abs/2408.04290)|**[link](https://github.com/amirrezafateh/multi-scale-transformer-pneumonia)**|
+|**2024-08-08**|**LaDiMo: Layer-wise Distillation Inspired MoEfier**|Sungyoon Kim et.al.|[2408.04278](http://arxiv.org/abs/2408.04278)|null|
+|**2024-08-08**|**UHNet: An Ultra-Lightweight and High-Speed Edge Detection Network**|Fuzhang Li et.al.|[2408.04258](http://arxiv.org/abs/2408.04258)|null|
+|**2024-08-08**|**Scalable Transformer for High Dimensional Multivariate Time Series Forecasting**|Xin Zhou et.al.|[2408.04245](http://arxiv.org/abs/2408.04245)|**[link](https://github.com/xinzzzhou/scalabletransformer4highdimensionmtsf)**|
+|**2024-08-08**|**Cluster-Wide Task Slowdown Detection in Cloud System**|Feiyi Chen et.al.|[2408.04236](http://arxiv.org/abs/2408.04236)|null|
+|**2024-08-08**|**LLDif: Diffusion Models for Low-light Emotion Recognition**|Zhifeng Wang et.al.|[2408.04235](http://arxiv.org/abs/2408.04235)|null|
+|**2024-08-08**|**Probabilistic Circuits for Cumulative Distribution Functions**|Oliver Broadrick et.al.|[2408.04229](http://arxiv.org/abs/2408.04229)|null|
+|**2024-08-08**|**Attention Mechanism and Context Modeling System for Text Mining Machine Translation**|Shi Bo et.al.|[2408.04216](http://arxiv.org/abs/2408.04216)|null|
+|**2024-08-08**|**Convolution Type of Metaplectic Cohen's Distribution Time-Frequency Analysis Theory, Method and Technology**|Manjun Cui et.al.|[2408.04214](http://arxiv.org/abs/2408.04214)|null|
+|**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[2408.04198](http://arxiv.org/abs/2408.04198)|null|
+|**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172](http://arxiv.org/abs/2408.04172)|null|
+|**2024-08-08**|**M2EF-NNs: Multimodal Multi-instance Evidence Fusion Neural Networks for Cancer Survival Prediction**|Hui Luo et.al.|[2408.04170](http://arxiv.org/abs/2408.04170)|null|
+|**2024-08-08**|**C-Nash: A Novel Ferroelectric Computing-in-Memory Architecture for Solving Mixed Strategy Nash Equilibrium**|Yu Qian et.al.|[2408.04169](http://arxiv.org/abs/2408.04169)|null|
+|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158](http://arxiv.org/abs/2408.04158)|null|
+|**2024-08-08**|**R-adaptive DeepONet: Learning Solution Operators for PDEs with Discontinuous Solutions Using an R-adaptive Strategy**|Yameng Zhu et.al.|[2408.04157](http://arxiv.org/abs/2408.04157)|null|
+|**2024-08-08**|**The exact dimension of Liouville numbers: The Fourier side**|Iván Polasek et.al.|[2408.04148](http://arxiv.org/abs/2408.04148)|null|
+|**2024-08-07**|**PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation**|Blessing Agyei Kyem et.al.|[2408.04110](http://arxiv.org/abs/2408.04110)|**[link](https://github.com/blessing988/pavecap)**|
+|**2024-08-07**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093](http://arxiv.org/abs/2408.04093)|null|
+|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-08-07**|**Synthesizing Abstract Transformers for Reduced-Product Domains**|Pankaj Kumar Kalita et.al.|[2408.04040](http://arxiv.org/abs/2408.04040)|null|
+|**2024-08-07**|**Structural transitions of calcium carbonate by molecular dynamics simulation**|Elizaveta Sidler et.al.|[2408.04036](http://arxiv.org/abs/2408.04036)|null|
+|**2024-08-07**|**Image-to-LaTeX Converter for Mathematical Formulas and Text**|Daniil Gurgurov et.al.|[2408.04015](http://arxiv.org/abs/2408.04015)|**[link](https://github.com/d-gurgurov/im2latex)**|
+|**2024-08-07**|**Modular invariance as completeness**|Valentin Benedetti et.al.|[2408.04011](http://arxiv.org/abs/2408.04011)|null|
+|**2024-07-22**|**Harmonic fractal transformation, 4R-regeneration and noise shaping for ultra wide-band reception in FitzHugh-Nagumo neuronal model**|Mariia Sorokina et.al.|[2408.03951](http://arxiv.org/abs/2408.03951)|null|
+|**2024-07-22**|**Characterization of a Displaced Coaxial Feed for Cascaded Cylindrical Metasurfaces**|Chun-Wen Lin et.al.|[2408.03949](http://arxiv.org/abs/2408.03949)|null|
 |**2024-08-07**|**Lightweight Video Denoising Using a Classic Bayesian Backbone**|Clément Bled et.al.|[2408.03904](http://arxiv.org/abs/2408.03904)|null|
 |**2024-08-06**|**Central Kurdish Text-to-Speech Synthesis with Novel End-to-End Transformer Training**|Hawraz A. Ahmad et.al.|[2408.03887](http://arxiv.org/abs/2408.03887)|null|
 |**2024-08-07**|**Global-Local Progressive Integration Network for Blind Image Quality Assessment**|Xiaoqi Wang et.al.|[2408.03885](http://arxiv.org/abs/2408.03885)|null|
@@ -974,6 +1021,7 @@ layout: default
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965](http://arxiv.org/abs/2407.19965)|null|
 |**2024-07-29**|**Predicting citation impact of research papers using GPT and other text embeddings**|Adilson Vital Jr. et.al.|[2407.19942](http://arxiv.org/abs/2407.19942)|null|
 |**2024-07-29**|**Graph Fourier Transform Enhancement through Envelope Extensions**|Ali Bagheri Bardi et.al.|[2407.19934](http://arxiv.org/abs/2407.19934)|null|
+|**2024-08-08**|**The Hadamard Product of Moment Sequences**|Philipp J. di Dio et.al.|[2407.19933](http://arxiv.org/abs/2407.19933)|null|
 |**2024-07-29**|**Sentiment Analysis of Lithuanian Online Reviews Using Large Language Models**|Brigita Vileikytė et.al.|[2407.19914](http://arxiv.org/abs/2407.19914)|null|
 |**2024-07-29**|**Efficient Shield Synthesis via State-Space Transformation**|Asger Horn Brorholt et.al.|[2407.19911](http://arxiv.org/abs/2407.19911)|null|
 |**2024-07-29**|**Practical and Reproducible Symbolic Music Generation by Large Language Models with Structural Embeddings**|Seungyeon Rhyu et.al.|[2407.19900](http://arxiv.org/abs/2407.19900)|null|
